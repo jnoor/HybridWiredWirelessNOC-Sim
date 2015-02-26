@@ -1,0 +1,6712 @@
+LINE 1--- Inserted assignment from Router 0 to core 0 on simulator 0
+LINE 2--- Inserted assignment from Router 0 to core 1 on simulator 0
+LINE 3--- Inserted assignment from Router 0 to core 2 on simulator 0
+LINE 4--- Inserted assignment from Router 0 to core 3 on simulator 0
+LINE 5--- Inserted assignment from Router 1 to core 4 on simulator 0
+LINE 6--- Inserted assignment from Router 1 to core 5 on simulator 0
+LINE 7--- Inserted assignment from Router 1 to core 6 on simulator 0
+LINE 8--- Inserted assignment from Router 1 to core 7 on simulator 0
+LINE 9--- Inserted assignment from Router 2 to core 8 on simulator 0
+LINE 10--- Inserted assignment from Router 2 to core 9 on simulator 0
+LINE 11--- Inserted assignment from Router 2 to core 10 on simulator 0
+LINE 12--- Inserted assignment from Router 2 to core 11 on simulator 0
+LINE 13--- Inserted assignment from Router 3 to core 12 on simulator 0
+LINE 14--- Inserted assignment from Router 3 to core 13 on simulator 0
+LINE 15--- Inserted assignment from Router 3 to core 14 on simulator 0
+LINE 16--- Inserted assignment from Router 3 to core 15 on simulator 0
+LINE 17--- Inserted assignment from Router 4 to core 16 on simulator 0
+LINE 18--- Inserted assignment from Router 4 to core 17 on simulator 0
+LINE 19--- Inserted assignment from Router 4 to core 18 on simulator 0
+LINE 20--- Inserted assignment from Router 4 to core 19 on simulator 0
+LINE 21--- Inserted assignment from Router 5 to core 20 on simulator 0
+LINE 22--- Inserted assignment from Router 5 to core 21 on simulator 0
+LINE 23--- Inserted assignment from Router 5 to core 22 on simulator 0
+LINE 24--- Inserted assignment from Router 5 to core 23 on simulator 0
+LINE 25--- Inserted assignment from Router 6 to core 24 on simulator 0
+LINE 26--- Inserted assignment from Router 6 to core 25 on simulator 0
+LINE 27--- Inserted assignment from Router 6 to core 26 on simulator 0
+LINE 28--- Inserted assignment from Router 6 to core 27 on simulator 0
+LINE 29--- Inserted assignment from Router 7 to core 28 on simulator 0
+LINE 30--- Inserted assignment from Router 7 to core 29 on simulator 0
+LINE 31--- Inserted assignment from Router 7 to core 30 on simulator 0
+LINE 32--- Inserted assignment from Router 7 to core 31 on simulator 0
+LINE 33--- Inserted assignment from Router 8 to core 32 on simulator 0
+LINE 34--- Inserted assignment from Router 8 to core 33 on simulator 0
+LINE 35--- Inserted assignment from Router 8 to core 34 on simulator 0
+LINE 36--- Inserted assignment from Router 8 to core 35 on simulator 0
+LINE 37--- Inserted assignment from Router 9 to core 36 on simulator 0
+LINE 38--- Inserted assignment from Router 9 to core 37 on simulator 0
+LINE 39--- Inserted assignment from Router 9 to core 38 on simulator 0
+LINE 40--- Inserted assignment from Router 9 to core 39 on simulator 0
+LINE 41--- Inserted assignment from Router 10 to core 40 on simulator 0
+LINE 42--- Inserted assignment from Router 10 to core 41 on simulator 0
+LINE 43--- Inserted assignment from Router 10 to core 42 on simulator 0
+LINE 44--- Inserted assignment from Router 10 to core 43 on simulator 0
+LINE 45--- Inserted assignment from Router 11 to core 44 on simulator 0
+LINE 46--- Inserted assignment from Router 11 to core 45 on simulator 0
+LINE 47--- Inserted assignment from Router 11 to core 46 on simulator 0
+LINE 48--- Inserted assignment from Router 11 to core 47 on simulator 0
+LINE 49--- Inserted assignment from Router 12 to core 48 on simulator 0
+LINE 50--- Inserted assignment from Router 12 to core 49 on simulator 0
+LINE 51--- Inserted assignment from Router 12 to core 50 on simulator 0
+LINE 52--- Inserted assignment from Router 12 to core 51 on simulator 0
+LINE 53--- Inserted assignment from Router 13 to core 52 on simulator 0
+LINE 54--- Inserted assignment from Router 13 to core 53 on simulator 0
+LINE 55--- Inserted assignment from Router 13 to core 54 on simulator 0
+LINE 56--- Inserted assignment from Router 13 to core 55 on simulator 0
+LINE 57--- Inserted assignment from Router 14 to core 56 on simulator 0
+LINE 58--- Inserted assignment from Router 14 to core 57 on simulator 0
+LINE 59--- Inserted assignment from Router 14 to core 58 on simulator 0
+LINE 60--- Inserted assignment from Router 14 to core 59 on simulator 0
+LINE 61--- Inserted assignment from Router 15 to core 60 on simulator 0
+LINE 62--- Inserted assignment from Router 15 to core 61 on simulator 0
+LINE 63--- Inserted assignment from Router 15 to core 62 on simulator 0
+LINE 64--- Inserted assignment from Router 15 to core 63 on simulator 0
+LINE 65--- Inserted assignment from Router 16 to core 64 on simulator 0
+LINE 66--- Inserted assignment from Router 16 to core 65 on simulator 0
+LINE 67--- Inserted assignment from Router 16 to core 66 on simulator 0
+LINE 68--- Inserted assignment from Router 16 to core 67 on simulator 0
+LINE 69--- Inserted assignment from Router 17 to core 68 on simulator 0
+LINE 70--- Inserted assignment from Router 17 to core 69 on simulator 0
+LINE 71--- Inserted assignment from Router 17 to core 70 on simulator 0
+LINE 72--- Inserted assignment from Router 17 to core 71 on simulator 0
+LINE 73--- Inserted assignment from Router 18 to core 72 on simulator 0
+LINE 74--- Inserted assignment from Router 18 to core 73 on simulator 0
+LINE 75--- Inserted assignment from Router 18 to core 74 on simulator 0
+LINE 76--- Inserted assignment from Router 18 to core 75 on simulator 0
+LINE 77--- Inserted assignment from Router 19 to core 76 on simulator 0
+LINE 78--- Inserted assignment from Router 19 to core 77 on simulator 0
+LINE 79--- Inserted assignment from Router 19 to core 78 on simulator 0
+LINE 80--- Inserted assignment from Router 19 to core 79 on simulator 0
+LINE 81--- Inserted assignment from Router 20 to core 80 on simulator 0
+LINE 82--- Inserted assignment from Router 20 to core 81 on simulator 0
+LINE 83--- Inserted assignment from Router 20 to core 82 on simulator 0
+LINE 84--- Inserted assignment from Router 20 to core 83 on simulator 0
+LINE 85--- Inserted assignment from Router 21 to core 84 on simulator 0
+LINE 86--- Inserted assignment from Router 21 to core 85 on simulator 0
+LINE 87--- Inserted assignment from Router 21 to core 86 on simulator 0
+LINE 88--- Inserted assignment from Router 21 to core 87 on simulator 0
+LINE 89--- Inserted assignment from Router 22 to core 88 on simulator 0
+LINE 90--- Inserted assignment from Router 22 to core 89 on simulator 0
+LINE 91--- Inserted assignment from Router 22 to core 90 on simulator 0
+LINE 92--- Inserted assignment from Router 22 to core 91 on simulator 0
+LINE 93--- Inserted assignment from Router 23 to core 92 on simulator 0
+LINE 94--- Inserted assignment from Router 23 to core 93 on simulator 0
+LINE 95--- Inserted assignment from Router 23 to core 94 on simulator 0
+LINE 96--- Inserted assignment from Router 23 to core 95 on simulator 0
+LINE 97--- Inserted assignment from Router 24 to core 96 on simulator 0
+LINE 98--- Inserted assignment from Router 24 to core 97 on simulator 0
+LINE 99--- Inserted assignment from Router 24 to core 98 on simulator 0
+LINE 100--- Inserted assignment from Router 24 to core 99 on simulator 0
+LINE 101--- Inserted assignment from Router 25 to core 100 on simulator 0
+LINE 102--- Inserted assignment from Router 25 to core 101 on simulator 0
+LINE 103--- Inserted assignment from Router 25 to core 102 on simulator 0
+LINE 104--- Inserted assignment from Router 25 to core 103 on simulator 0
+LINE 105--- Inserted assignment from Router 26 to core 104 on simulator 0
+LINE 106--- Inserted assignment from Router 26 to core 105 on simulator 0
+LINE 107--- Inserted assignment from Router 26 to core 106 on simulator 0
+LINE 108--- Inserted assignment from Router 26 to core 107 on simulator 0
+LINE 109--- Inserted assignment from Router 27 to core 108 on simulator 0
+LINE 110--- Inserted assignment from Router 27 to core 109 on simulator 0
+LINE 111--- Inserted assignment from Router 27 to core 110 on simulator 0
+LINE 112--- Inserted assignment from Router 27 to core 111 on simulator 0
+LINE 113--- Inserted assignment from Router 28 to core 112 on simulator 0
+LINE 114--- Inserted assignment from Router 28 to core 113 on simulator 0
+LINE 115--- Inserted assignment from Router 28 to core 114 on simulator 0
+LINE 116--- Inserted assignment from Router 28 to core 115 on simulator 0
+LINE 117--- Inserted assignment from Router 29 to core 116 on simulator 0
+LINE 118--- Inserted assignment from Router 29 to core 117 on simulator 0
+LINE 119--- Inserted assignment from Router 29 to core 118 on simulator 0
+LINE 120--- Inserted assignment from Router 29 to core 119 on simulator 0
+LINE 121--- Inserted assignment from Router 30 to core 120 on simulator 0
+LINE 122--- Inserted assignment from Router 30 to core 121 on simulator 0
+LINE 123--- Inserted assignment from Router 30 to core 122 on simulator 0
+LINE 124--- Inserted assignment from Router 30 to core 123 on simulator 0
+LINE 125--- Inserted assignment from Router 31 to core 124 on simulator 0
+LINE 126--- Inserted assignment from Router 31 to core 125 on simulator 0
+LINE 127--- Inserted assignment from Router 31 to core 126 on simulator 0
+LINE 128--- Inserted assignment from Router 31 to core 127 on simulator 0
+LINE 129--- Inserted assignment from Router 32 to core 128 on simulator 0
+LINE 130--- Inserted assignment from Router 32 to core 129 on simulator 0
+LINE 131--- Inserted assignment from Router 32 to core 130 on simulator 0
+LINE 132--- Inserted assignment from Router 32 to core 131 on simulator 0
+LINE 133--- Inserted assignment from Router 33 to core 132 on simulator 0
+LINE 134--- Inserted assignment from Router 33 to core 133 on simulator 0
+LINE 135--- Inserted assignment from Router 33 to core 134 on simulator 0
+LINE 136--- Inserted assignment from Router 33 to core 135 on simulator 0
+LINE 137--- Inserted assignment from Router 34 to core 136 on simulator 0
+LINE 138--- Inserted assignment from Router 34 to core 137 on simulator 0
+LINE 139--- Inserted assignment from Router 34 to core 138 on simulator 0
+LINE 140--- Inserted assignment from Router 34 to core 139 on simulator 0
+LINE 141--- Inserted assignment from Router 35 to core 140 on simulator 0
+LINE 142--- Inserted assignment from Router 35 to core 141 on simulator 0
+LINE 143--- Inserted assignment from Router 35 to core 142 on simulator 0
+LINE 144--- Inserted assignment from Router 35 to core 143 on simulator 0
+LINE 145--- Inserted assignment from Router 36 to core 144 on simulator 0
+LINE 146--- Inserted assignment from Router 36 to core 145 on simulator 0
+LINE 147--- Inserted assignment from Router 36 to core 146 on simulator 0
+LINE 148--- Inserted assignment from Router 36 to core 147 on simulator 0
+LINE 149--- Inserted assignment from Router 37 to core 148 on simulator 0
+LINE 150--- Inserted assignment from Router 37 to core 149 on simulator 0
+LINE 151--- Inserted assignment from Router 37 to core 150 on simulator 0
+LINE 152--- Inserted assignment from Router 37 to core 151 on simulator 0
+LINE 153--- Inserted assignment from Router 38 to core 152 on simulator 0
+LINE 154--- Inserted assignment from Router 38 to core 153 on simulator 0
+LINE 155--- Inserted assignment from Router 38 to core 154 on simulator 0
+LINE 156--- Inserted assignment from Router 38 to core 155 on simulator 0
+LINE 157--- Inserted assignment from Router 39 to core 156 on simulator 0
+LINE 158--- Inserted assignment from Router 39 to core 157 on simulator 0
+LINE 159--- Inserted assignment from Router 39 to core 158 on simulator 0
+LINE 160--- Inserted assignment from Router 39 to core 159 on simulator 0
+LINE 161--- Inserted assignment from Router 40 to core 160 on simulator 0
+LINE 162--- Inserted assignment from Router 40 to core 161 on simulator 0
+LINE 163--- Inserted assignment from Router 40 to core 162 on simulator 0
+LINE 164--- Inserted assignment from Router 40 to core 163 on simulator 0
+LINE 165--- Inserted assignment from Router 41 to core 164 on simulator 0
+LINE 166--- Inserted assignment from Router 41 to core 165 on simulator 0
+LINE 167--- Inserted assignment from Router 41 to core 166 on simulator 0
+LINE 168--- Inserted assignment from Router 41 to core 167 on simulator 0
+LINE 169--- Inserted assignment from Router 42 to core 168 on simulator 0
+LINE 170--- Inserted assignment from Router 42 to core 169 on simulator 0
+LINE 171--- Inserted assignment from Router 42 to core 170 on simulator 0
+LINE 172--- Inserted assignment from Router 42 to core 171 on simulator 0
+LINE 173--- Inserted assignment from Router 43 to core 172 on simulator 0
+LINE 174--- Inserted assignment from Router 43 to core 173 on simulator 0
+LINE 175--- Inserted assignment from Router 43 to core 174 on simulator 0
+LINE 176--- Inserted assignment from Router 43 to core 175 on simulator 0
+LINE 177--- Inserted assignment from Router 44 to core 176 on simulator 0
+LINE 178--- Inserted assignment from Router 44 to core 177 on simulator 0
+LINE 179--- Inserted assignment from Router 44 to core 178 on simulator 0
+LINE 180--- Inserted assignment from Router 44 to core 179 on simulator 0
+LINE 181--- Inserted assignment from Router 45 to core 180 on simulator 0
+LINE 182--- Inserted assignment from Router 45 to core 181 on simulator 0
+LINE 183--- Inserted assignment from Router 45 to core 182 on simulator 0
+LINE 184--- Inserted assignment from Router 45 to core 183 on simulator 0
+LINE 185--- Inserted assignment from Router 46 to core 184 on simulator 0
+LINE 186--- Inserted assignment from Router 46 to core 185 on simulator 0
+LINE 187--- Inserted assignment from Router 46 to core 186 on simulator 0
+LINE 188--- Inserted assignment from Router 46 to core 187 on simulator 0
+LINE 189--- Inserted assignment from Router 47 to core 188 on simulator 0
+LINE 190--- Inserted assignment from Router 47 to core 189 on simulator 0
+LINE 191--- Inserted assignment from Router 47 to core 190 on simulator 0
+LINE 192--- Inserted assignment from Router 47 to core 191 on simulator 0
+LINE 193--- Inserted assignment from Router 48 to core 192 on simulator 0
+LINE 194--- Inserted assignment from Router 48 to core 193 on simulator 0
+LINE 195--- Inserted assignment from Router 48 to core 194 on simulator 0
+LINE 196--- Inserted assignment from Router 48 to core 195 on simulator 0
+LINE 197--- Inserted assignment from Router 49 to core 196 on simulator 0
+LINE 198--- Inserted assignment from Router 49 to core 197 on simulator 0
+LINE 199--- Inserted assignment from Router 49 to core 198 on simulator 0
+LINE 200--- Inserted assignment from Router 49 to core 199 on simulator 0
+LINE 201--- Inserted assignment from Router 50 to core 200 on simulator 0
+LINE 202--- Inserted assignment from Router 50 to core 201 on simulator 0
+LINE 203--- Inserted assignment from Router 50 to core 202 on simulator 0
+LINE 204--- Inserted assignment from Router 50 to core 203 on simulator 0
+LINE 205--- Inserted assignment from Router 51 to core 204 on simulator 0
+LINE 206--- Inserted assignment from Router 51 to core 205 on simulator 0
+LINE 207--- Inserted assignment from Router 51 to core 206 on simulator 0
+LINE 208--- Inserted assignment from Router 51 to core 207 on simulator 0
+LINE 209--- Inserted assignment from Router 52 to core 208 on simulator 0
+LINE 210--- Inserted assignment from Router 52 to core 209 on simulator 0
+LINE 211--- Inserted assignment from Router 52 to core 210 on simulator 0
+LINE 212--- Inserted assignment from Router 52 to core 211 on simulator 0
+LINE 213--- Inserted assignment from Router 53 to core 212 on simulator 0
+LINE 214--- Inserted assignment from Router 53 to core 213 on simulator 0
+LINE 215--- Inserted assignment from Router 53 to core 214 on simulator 0
+LINE 216--- Inserted assignment from Router 53 to core 215 on simulator 0
+LINE 217--- Inserted assignment from Router 54 to core 216 on simulator 0
+LINE 218--- Inserted assignment from Router 54 to core 217 on simulator 0
+LINE 219--- Inserted assignment from Router 54 to core 218 on simulator 0
+LINE 220--- Inserted assignment from Router 54 to core 219 on simulator 0
+LINE 221--- Inserted assignment from Router 55 to core 220 on simulator 0
+LINE 222--- Inserted assignment from Router 55 to core 221 on simulator 0
+LINE 223--- Inserted assignment from Router 55 to core 222 on simulator 0
+LINE 224--- Inserted assignment from Router 55 to core 223 on simulator 0
+LINE 225--- Inserted assignment from Router 56 to core 224 on simulator 0
+LINE 226--- Inserted assignment from Router 56 to core 225 on simulator 0
+LINE 227--- Inserted assignment from Router 56 to core 226 on simulator 0
+LINE 228--- Inserted assignment from Router 56 to core 227 on simulator 0
+LINE 229--- Inserted assignment from Router 57 to core 228 on simulator 0
+LINE 230--- Inserted assignment from Router 57 to core 229 on simulator 0
+LINE 231--- Inserted assignment from Router 57 to core 230 on simulator 0
+LINE 232--- Inserted assignment from Router 57 to core 231 on simulator 0
+LINE 233--- Inserted assignment from Router 58 to core 232 on simulator 0
+LINE 234--- Inserted assignment from Router 58 to core 233 on simulator 0
+LINE 235--- Inserted assignment from Router 58 to core 234 on simulator 0
+LINE 236--- Inserted assignment from Router 58 to core 235 on simulator 0
+LINE 237--- Inserted assignment from Router 59 to core 236 on simulator 0
+LINE 238--- Inserted assignment from Router 59 to core 237 on simulator 0
+LINE 239--- Inserted assignment from Router 59 to core 238 on simulator 0
+LINE 240--- Inserted assignment from Router 59 to core 239 on simulator 0
+LINE 241--- Inserted assignment from Router 60 to core 240 on simulator 0
+LINE 242--- Inserted assignment from Router 60 to core 241 on simulator 0
+LINE 243--- Inserted assignment from Router 60 to core 242 on simulator 0
+LINE 244--- Inserted assignment from Router 60 to core 243 on simulator 0
+LINE 245--- Inserted assignment from Router 61 to core 244 on simulator 0
+LINE 246--- Inserted assignment from Router 61 to core 245 on simulator 0
+LINE 247--- Inserted assignment from Router 61 to core 246 on simulator 0
+LINE 248--- Inserted assignment from Router 61 to core 247 on simulator 0
+LINE 249--- Inserted assignment from Router 62 to core 248 on simulator 0
+LINE 250--- Inserted assignment from Router 62 to core 249 on simulator 0
+LINE 251--- Inserted assignment from Router 62 to core 250 on simulator 0
+LINE 252--- Inserted assignment from Router 62 to core 251 on simulator 0
+LINE 253--- Inserted assignment from Router 63 to core 252 on simulator 0
+LINE 254--- Inserted assignment from Router 63 to core 253 on simulator 0
+LINE 255--- Inserted assignment from Router 63 to core 254 on simulator 0
+LINE 256--- Inserted assignment from Router 63 to core 255 on simulator 0
+LINE 257--- Inserted assignment from Router 64 to core 256 on simulator 0
+LINE 258--- Inserted assignment from Router 64 to core 257 on simulator 0
+LINE 259--- Inserted assignment from Router 64 to core 258 on simulator 0
+LINE 260--- Inserted assignment from Router 64 to core 259 on simulator 0
+LINE 261--- Inserted assignment from Router 65 to core 260 on simulator 0
+LINE 262--- Inserted assignment from Router 65 to core 261 on simulator 0
+LINE 263--- Inserted assignment from Router 65 to core 262 on simulator 0
+LINE 264--- Inserted assignment from Router 65 to core 263 on simulator 0
+LINE 265--- Inserted assignment from Router 66 to core 264 on simulator 0
+LINE 266--- Inserted assignment from Router 66 to core 265 on simulator 0
+LINE 267--- Inserted assignment from Router 66 to core 266 on simulator 0
+LINE 268--- Inserted assignment from Router 66 to core 267 on simulator 0
+LINE 269--- Inserted assignment from Router 67 to core 268 on simulator 0
+LINE 270--- Inserted assignment from Router 67 to core 269 on simulator 0
+LINE 271--- Inserted assignment from Router 67 to core 270 on simulator 0
+LINE 272--- Inserted assignment from Router 67 to core 271 on simulator 0
+LINE 273--- Inserted assignment from Router 68 to core 272 on simulator 0
+LINE 274--- Inserted assignment from Router 68 to core 273 on simulator 0
+LINE 275--- Inserted assignment from Router 68 to core 274 on simulator 0
+LINE 276--- Inserted assignment from Router 68 to core 275 on simulator 0
+LINE 277--- Inserted assignment from Router 69 to core 276 on simulator 0
+LINE 278--- Inserted assignment from Router 69 to core 277 on simulator 0
+LINE 279--- Inserted assignment from Router 69 to core 278 on simulator 0
+LINE 280--- Inserted assignment from Router 69 to core 279 on simulator 0
+LINE 281--- Inserted assignment from Router 70 to core 280 on simulator 0
+LINE 282--- Inserted assignment from Router 70 to core 281 on simulator 0
+LINE 283--- Inserted assignment from Router 70 to core 282 on simulator 0
+LINE 284--- Inserted assignment from Router 70 to core 283 on simulator 0
+LINE 285--- Inserted assignment from Router 71 to core 284 on simulator 0
+LINE 286--- Inserted assignment from Router 71 to core 285 on simulator 0
+LINE 287--- Inserted assignment from Router 71 to core 286 on simulator 0
+LINE 288--- Inserted assignment from Router 71 to core 287 on simulator 0
+LINE 289--- Inserted assignment from Router 72 to core 288 on simulator 0
+LINE 290--- Inserted assignment from Router 72 to core 289 on simulator 0
+LINE 291--- Inserted assignment from Router 72 to core 290 on simulator 0
+LINE 292--- Inserted assignment from Router 72 to core 291 on simulator 0
+LINE 293--- Inserted assignment from Router 73 to core 292 on simulator 0
+LINE 294--- Inserted assignment from Router 73 to core 293 on simulator 0
+LINE 295--- Inserted assignment from Router 73 to core 294 on simulator 0
+LINE 296--- Inserted assignment from Router 73 to core 295 on simulator 0
+LINE 297--- Inserted assignment from Router 74 to core 296 on simulator 0
+LINE 298--- Inserted assignment from Router 74 to core 297 on simulator 0
+LINE 299--- Inserted assignment from Router 74 to core 298 on simulator 0
+LINE 300--- Inserted assignment from Router 74 to core 299 on simulator 0
+LINE 301--- Inserted assignment from Router 75 to core 300 on simulator 0
+LINE 302--- Inserted assignment from Router 75 to core 301 on simulator 0
+LINE 303--- Inserted assignment from Router 75 to core 302 on simulator 0
+LINE 304--- Inserted assignment from Router 75 to core 303 on simulator 0
+LINE 305--- Inserted assignment from Router 76 to core 304 on simulator 0
+LINE 306--- Inserted assignment from Router 76 to core 305 on simulator 0
+LINE 307--- Inserted assignment from Router 76 to core 306 on simulator 0
+LINE 308--- Inserted assignment from Router 76 to core 307 on simulator 0
+LINE 309--- Inserted assignment from Router 77 to core 308 on simulator 0
+LINE 310--- Inserted assignment from Router 77 to core 309 on simulator 0
+LINE 311--- Inserted assignment from Router 77 to core 310 on simulator 0
+LINE 312--- Inserted assignment from Router 77 to core 311 on simulator 0
+LINE 313--- Inserted assignment from Router 78 to core 312 on simulator 0
+LINE 314--- Inserted assignment from Router 78 to core 313 on simulator 0
+LINE 315--- Inserted assignment from Router 78 to core 314 on simulator 0
+LINE 316--- Inserted assignment from Router 78 to core 315 on simulator 0
+LINE 317--- Inserted assignment from Router 79 to core 316 on simulator 0
+LINE 318--- Inserted assignment from Router 79 to core 317 on simulator 0
+LINE 319--- Inserted assignment from Router 79 to core 318 on simulator 0
+LINE 320--- Inserted assignment from Router 79 to core 319 on simulator 0
+LINE 321--- Inserted assignment from Router 80 to core 320 on simulator 0
+LINE 322--- Inserted assignment from Router 80 to core 321 on simulator 0
+LINE 323--- Inserted assignment from Router 80 to core 322 on simulator 0
+LINE 324--- Inserted assignment from Router 80 to core 323 on simulator 0
+LINE 325--- Inserted assignment from Router 81 to core 324 on simulator 0
+LINE 326--- Inserted assignment from Router 81 to core 325 on simulator 0
+LINE 327--- Inserted assignment from Router 81 to core 326 on simulator 0
+LINE 328--- Inserted assignment from Router 81 to core 327 on simulator 0
+LINE 329--- Inserted assignment from Router 82 to core 328 on simulator 0
+LINE 330--- Inserted assignment from Router 82 to core 329 on simulator 0
+LINE 331--- Inserted assignment from Router 82 to core 330 on simulator 0
+LINE 332--- Inserted assignment from Router 82 to core 331 on simulator 0
+LINE 333--- Inserted assignment from Router 83 to core 332 on simulator 0
+LINE 334--- Inserted assignment from Router 83 to core 333 on simulator 0
+LINE 335--- Inserted assignment from Router 83 to core 334 on simulator 0
+LINE 336--- Inserted assignment from Router 83 to core 335 on simulator 0
+LINE 337--- Inserted assignment from Router 84 to core 336 on simulator 0
+LINE 338--- Inserted assignment from Router 84 to core 337 on simulator 0
+LINE 339--- Inserted assignment from Router 84 to core 338 on simulator 0
+LINE 340--- Inserted assignment from Router 84 to core 339 on simulator 0
+LINE 341--- Inserted assignment from Router 85 to core 340 on simulator 0
+LINE 342--- Inserted assignment from Router 85 to core 341 on simulator 0
+LINE 343--- Inserted assignment from Router 85 to core 342 on simulator 0
+LINE 344--- Inserted assignment from Router 85 to core 343 on simulator 0
+LINE 345--- Inserted assignment from Router 86 to core 344 on simulator 0
+LINE 346--- Inserted assignment from Router 86 to core 345 on simulator 0
+LINE 347--- Inserted assignment from Router 86 to core 346 on simulator 0
+LINE 348--- Inserted assignment from Router 86 to core 347 on simulator 0
+LINE 349--- Inserted assignment from Router 87 to core 348 on simulator 0
+LINE 350--- Inserted assignment from Router 87 to core 349 on simulator 0
+LINE 351--- Inserted assignment from Router 87 to core 350 on simulator 0
+LINE 352--- Inserted assignment from Router 87 to core 351 on simulator 0
+LINE 353--- Inserted assignment from Router 88 to core 352 on simulator 0
+LINE 354--- Inserted assignment from Router 88 to core 353 on simulator 0
+LINE 355--- Inserted assignment from Router 88 to core 354 on simulator 0
+LINE 356--- Inserted assignment from Router 88 to core 355 on simulator 0
+LINE 357--- Inserted assignment from Router 89 to core 356 on simulator 0
+LINE 358--- Inserted assignment from Router 89 to core 357 on simulator 0
+LINE 359--- Inserted assignment from Router 89 to core 358 on simulator 0
+LINE 360--- Inserted assignment from Router 89 to core 359 on simulator 0
+LINE 361--- Inserted assignment from Router 90 to core 360 on simulator 0
+LINE 362--- Inserted assignment from Router 90 to core 361 on simulator 0
+LINE 363--- Inserted assignment from Router 90 to core 362 on simulator 0
+LINE 364--- Inserted assignment from Router 90 to core 363 on simulator 0
+LINE 365--- Inserted assignment from Router 91 to core 364 on simulator 0
+LINE 366--- Inserted assignment from Router 91 to core 365 on simulator 0
+LINE 367--- Inserted assignment from Router 91 to core 366 on simulator 0
+LINE 368--- Inserted assignment from Router 91 to core 367 on simulator 0
+LINE 369--- Inserted assignment from Router 92 to core 368 on simulator 0
+LINE 370--- Inserted assignment from Router 92 to core 369 on simulator 0
+LINE 371--- Inserted assignment from Router 92 to core 370 on simulator 0
+LINE 372--- Inserted assignment from Router 92 to core 371 on simulator 0
+LINE 373--- Inserted assignment from Router 93 to core 372 on simulator 0
+LINE 374--- Inserted assignment from Router 93 to core 373 on simulator 0
+LINE 375--- Inserted assignment from Router 93 to core 374 on simulator 0
+LINE 376--- Inserted assignment from Router 93 to core 375 on simulator 0
+LINE 377--- Inserted assignment from Router 94 to core 376 on simulator 0
+LINE 378--- Inserted assignment from Router 94 to core 377 on simulator 0
+LINE 379--- Inserted assignment from Router 94 to core 378 on simulator 0
+LINE 380--- Inserted assignment from Router 94 to core 379 on simulator 0
+LINE 381--- Inserted assignment from Router 95 to core 380 on simulator 0
+LINE 382--- Inserted assignment from Router 95 to core 381 on simulator 0
+LINE 383--- Inserted assignment from Router 95 to core 382 on simulator 0
+LINE 384--- Inserted assignment from Router 95 to core 383 on simulator 0
+LINE 385--- Inserted assignment from Router 96 to core 384 on simulator 0
+LINE 386--- Inserted assignment from Router 96 to core 385 on simulator 0
+LINE 387--- Inserted assignment from Router 96 to core 386 on simulator 0
+LINE 388--- Inserted assignment from Router 96 to core 387 on simulator 0
+LINE 389--- Inserted assignment from Router 97 to core 388 on simulator 0
+LINE 390--- Inserted assignment from Router 97 to core 389 on simulator 0
+LINE 391--- Inserted assignment from Router 97 to core 390 on simulator 0
+LINE 392--- Inserted assignment from Router 97 to core 391 on simulator 0
+LINE 393--- Inserted assignment from Router 98 to core 392 on simulator 0
+LINE 394--- Inserted assignment from Router 98 to core 393 on simulator 0
+LINE 395--- Inserted assignment from Router 98 to core 394 on simulator 0
+LINE 396--- Inserted assignment from Router 98 to core 395 on simulator 0
+LINE 397--- Inserted assignment from Router 99 to core 396 on simulator 0
+LINE 398--- Inserted assignment from Router 99 to core 397 on simulator 0
+LINE 399--- Inserted assignment from Router 99 to core 398 on simulator 0
+LINE 400--- Inserted assignment from Router 99 to core 399 on simulator 0
+LINE 401--- Inserted assignment from Router 100 to core 400 on simulator 0
+LINE 402--- Inserted assignment from Router 100 to core 401 on simulator 0
+LINE 403--- Inserted assignment from Router 100 to core 402 on simulator 0
+LINE 404--- Inserted assignment from Router 100 to core 403 on simulator 0
+LINE 405--- Inserted assignment from Router 101 to core 404 on simulator 0
+LINE 406--- Inserted assignment from Router 101 to core 405 on simulator 0
+LINE 407--- Inserted assignment from Router 101 to core 406 on simulator 0
+LINE 408--- Inserted assignment from Router 101 to core 407 on simulator 0
+LINE 409--- Inserted assignment from Router 102 to core 408 on simulator 0
+LINE 410--- Inserted assignment from Router 102 to core 409 on simulator 0
+LINE 411--- Inserted assignment from Router 102 to core 410 on simulator 0
+LINE 412--- Inserted assignment from Router 102 to core 411 on simulator 0
+LINE 413--- Inserted assignment from Router 103 to core 412 on simulator 0
+LINE 414--- Inserted assignment from Router 103 to core 413 on simulator 0
+LINE 415--- Inserted assignment from Router 103 to core 414 on simulator 0
+LINE 416--- Inserted assignment from Router 103 to core 415 on simulator 0
+LINE 417--- Inserted assignment from Router 104 to core 416 on simulator 0
+LINE 418--- Inserted assignment from Router 104 to core 417 on simulator 0
+LINE 419--- Inserted assignment from Router 104 to core 418 on simulator 0
+LINE 420--- Inserted assignment from Router 104 to core 419 on simulator 0
+LINE 421--- Inserted assignment from Router 105 to core 420 on simulator 0
+LINE 422--- Inserted assignment from Router 105 to core 421 on simulator 0
+LINE 423--- Inserted assignment from Router 105 to core 422 on simulator 0
+LINE 424--- Inserted assignment from Router 105 to core 423 on simulator 0
+LINE 425--- Inserted assignment from Router 106 to core 424 on simulator 0
+LINE 426--- Inserted assignment from Router 106 to core 425 on simulator 0
+LINE 427--- Inserted assignment from Router 106 to core 426 on simulator 0
+LINE 428--- Inserted assignment from Router 106 to core 427 on simulator 0
+LINE 429--- Inserted assignment from Router 107 to core 428 on simulator 0
+LINE 430--- Inserted assignment from Router 107 to core 429 on simulator 0
+LINE 431--- Inserted assignment from Router 107 to core 430 on simulator 0
+LINE 432--- Inserted assignment from Router 107 to core 431 on simulator 0
+LINE 433--- Inserted assignment from Router 108 to core 432 on simulator 0
+LINE 434--- Inserted assignment from Router 108 to core 433 on simulator 0
+LINE 435--- Inserted assignment from Router 108 to core 434 on simulator 0
+LINE 436--- Inserted assignment from Router 108 to core 435 on simulator 0
+LINE 437--- Inserted assignment from Router 109 to core 436 on simulator 0
+LINE 438--- Inserted assignment from Router 109 to core 437 on simulator 0
+LINE 439--- Inserted assignment from Router 109 to core 438 on simulator 0
+LINE 440--- Inserted assignment from Router 109 to core 439 on simulator 0
+LINE 441--- Inserted assignment from Router 110 to core 440 on simulator 0
+LINE 442--- Inserted assignment from Router 110 to core 441 on simulator 0
+LINE 443--- Inserted assignment from Router 110 to core 442 on simulator 0
+LINE 444--- Inserted assignment from Router 110 to core 443 on simulator 0
+LINE 445--- Inserted assignment from Router 111 to core 444 on simulator 0
+LINE 446--- Inserted assignment from Router 111 to core 445 on simulator 0
+LINE 447--- Inserted assignment from Router 111 to core 446 on simulator 0
+LINE 448--- Inserted assignment from Router 111 to core 447 on simulator 0
+LINE 449--- Inserted assignment from Router 112 to core 448 on simulator 0
+LINE 450--- Inserted assignment from Router 112 to core 449 on simulator 0
+LINE 451--- Inserted assignment from Router 112 to core 450 on simulator 0
+LINE 452--- Inserted assignment from Router 112 to core 451 on simulator 0
+LINE 453--- Inserted assignment from Router 113 to core 452 on simulator 0
+LINE 454--- Inserted assignment from Router 113 to core 453 on simulator 0
+LINE 455--- Inserted assignment from Router 113 to core 454 on simulator 0
+LINE 456--- Inserted assignment from Router 113 to core 455 on simulator 0
+LINE 457--- Inserted assignment from Router 114 to core 456 on simulator 0
+LINE 458--- Inserted assignment from Router 114 to core 457 on simulator 0
+LINE 459--- Inserted assignment from Router 114 to core 458 on simulator 0
+LINE 460--- Inserted assignment from Router 114 to core 459 on simulator 0
+LINE 461--- Inserted assignment from Router 115 to core 460 on simulator 0
+LINE 462--- Inserted assignment from Router 115 to core 461 on simulator 0
+LINE 463--- Inserted assignment from Router 115 to core 462 on simulator 0
+LINE 464--- Inserted assignment from Router 115 to core 463 on simulator 0
+LINE 465--- Inserted assignment from Router 116 to core 464 on simulator 0
+LINE 466--- Inserted assignment from Router 116 to core 465 on simulator 0
+LINE 467--- Inserted assignment from Router 116 to core 466 on simulator 0
+LINE 468--- Inserted assignment from Router 116 to core 467 on simulator 0
+LINE 469--- Inserted assignment from Router 117 to core 468 on simulator 0
+LINE 470--- Inserted assignment from Router 117 to core 469 on simulator 0
+LINE 471--- Inserted assignment from Router 117 to core 470 on simulator 0
+LINE 472--- Inserted assignment from Router 117 to core 471 on simulator 0
+LINE 473--- Inserted assignment from Router 118 to core 472 on simulator 0
+LINE 474--- Inserted assignment from Router 118 to core 473 on simulator 0
+LINE 475--- Inserted assignment from Router 118 to core 474 on simulator 0
+LINE 476--- Inserted assignment from Router 118 to core 475 on simulator 0
+LINE 477--- Inserted assignment from Router 119 to core 476 on simulator 0
+LINE 478--- Inserted assignment from Router 119 to core 477 on simulator 0
+LINE 479--- Inserted assignment from Router 119 to core 478 on simulator 0
+LINE 480--- Inserted assignment from Router 119 to core 479 on simulator 0
+LINE 481--- Inserted assignment from Router 120 to core 480 on simulator 0
+LINE 482--- Inserted assignment from Router 120 to core 481 on simulator 0
+LINE 483--- Inserted assignment from Router 120 to core 482 on simulator 0
+LINE 484--- Inserted assignment from Router 120 to core 483 on simulator 0
+LINE 485--- Inserted assignment from Router 121 to core 484 on simulator 0
+LINE 486--- Inserted assignment from Router 121 to core 485 on simulator 0
+LINE 487--- Inserted assignment from Router 121 to core 486 on simulator 0
+LINE 488--- Inserted assignment from Router 121 to core 487 on simulator 0
+LINE 489--- Inserted assignment from Router 122 to core 488 on simulator 0
+LINE 490--- Inserted assignment from Router 122 to core 489 on simulator 0
+LINE 491--- Inserted assignment from Router 122 to core 490 on simulator 0
+LINE 492--- Inserted assignment from Router 122 to core 491 on simulator 0
+LINE 493--- Inserted assignment from Router 123 to core 492 on simulator 0
+LINE 494--- Inserted assignment from Router 123 to core 493 on simulator 0
+LINE 495--- Inserted assignment from Router 123 to core 494 on simulator 0
+LINE 496--- Inserted assignment from Router 123 to core 495 on simulator 0
+LINE 497--- Inserted assignment from Router 124 to core 496 on simulator 0
+LINE 498--- Inserted assignment from Router 124 to core 497 on simulator 0
+LINE 499--- Inserted assignment from Router 124 to core 498 on simulator 0
+LINE 500--- Inserted assignment from Router 124 to core 499 on simulator 0
+LINE 501--- Inserted assignment from Router 125 to core 500 on simulator 0
+LINE 502--- Inserted assignment from Router 125 to core 501 on simulator 0
+LINE 503--- Inserted assignment from Router 125 to core 502 on simulator 0
+LINE 504--- Inserted assignment from Router 125 to core 503 on simulator 0
+LINE 505--- Inserted assignment from Router 126 to core 504 on simulator 0
+LINE 506--- Inserted assignment from Router 126 to core 505 on simulator 0
+LINE 507--- Inserted assignment from Router 126 to core 506 on simulator 0
+LINE 508--- Inserted assignment from Router 126 to core 507 on simulator 0
+LINE 509--- Inserted assignment from Router 127 to core 508 on simulator 0
+LINE 510--- Inserted assignment from Router 127 to core 509 on simulator 0
+LINE 511--- Inserted assignment from Router 127 to core 510 on simulator 0
+LINE 512--- Inserted assignment from Router 127 to core 511 on simulator 0
+LINE 513--- Inserted assignment from Router 128 to core 512 on simulator 0
+LINE 514--- Inserted assignment from Router 128 to core 513 on simulator 0
+LINE 515--- Inserted assignment from Router 128 to core 514 on simulator 0
+LINE 516--- Inserted assignment from Router 128 to core 515 on simulator 0
+LINE 517--- Inserted assignment from Router 129 to core 516 on simulator 0
+LINE 518--- Inserted assignment from Router 129 to core 517 on simulator 0
+LINE 519--- Inserted assignment from Router 129 to core 518 on simulator 0
+LINE 520--- Inserted assignment from Router 129 to core 519 on simulator 0
+LINE 521--- Inserted assignment from Router 130 to core 520 on simulator 0
+LINE 522--- Inserted assignment from Router 130 to core 521 on simulator 0
+LINE 523--- Inserted assignment from Router 130 to core 522 on simulator 0
+LINE 524--- Inserted assignment from Router 130 to core 523 on simulator 0
+LINE 525--- Inserted assignment from Router 131 to core 524 on simulator 0
+LINE 526--- Inserted assignment from Router 131 to core 525 on simulator 0
+LINE 527--- Inserted assignment from Router 131 to core 526 on simulator 0
+LINE 528--- Inserted assignment from Router 131 to core 527 on simulator 0
+LINE 529--- Inserted assignment from Router 132 to core 528 on simulator 0
+LINE 530--- Inserted assignment from Router 132 to core 529 on simulator 0
+LINE 531--- Inserted assignment from Router 132 to core 530 on simulator 0
+LINE 532--- Inserted assignment from Router 132 to core 531 on simulator 0
+LINE 533--- Inserted assignment from Router 133 to core 532 on simulator 0
+LINE 534--- Inserted assignment from Router 133 to core 533 on simulator 0
+LINE 535--- Inserted assignment from Router 133 to core 534 on simulator 0
+LINE 536--- Inserted assignment from Router 133 to core 535 on simulator 0
+LINE 537--- Inserted assignment from Router 134 to core 536 on simulator 0
+LINE 538--- Inserted assignment from Router 134 to core 537 on simulator 0
+LINE 539--- Inserted assignment from Router 134 to core 538 on simulator 0
+LINE 540--- Inserted assignment from Router 134 to core 539 on simulator 0
+LINE 541--- Inserted assignment from Router 135 to core 540 on simulator 0
+LINE 542--- Inserted assignment from Router 135 to core 541 on simulator 0
+LINE 543--- Inserted assignment from Router 135 to core 542 on simulator 0
+LINE 544--- Inserted assignment from Router 135 to core 543 on simulator 0
+LINE 545--- Inserted assignment from Router 136 to core 544 on simulator 0
+LINE 546--- Inserted assignment from Router 136 to core 545 on simulator 0
+LINE 547--- Inserted assignment from Router 136 to core 546 on simulator 0
+LINE 548--- Inserted assignment from Router 136 to core 547 on simulator 0
+LINE 549--- Inserted assignment from Router 137 to core 548 on simulator 0
+LINE 550--- Inserted assignment from Router 137 to core 549 on simulator 0
+LINE 551--- Inserted assignment from Router 137 to core 550 on simulator 0
+LINE 552--- Inserted assignment from Router 137 to core 551 on simulator 0
+LINE 553--- Inserted assignment from Router 138 to core 552 on simulator 0
+LINE 554--- Inserted assignment from Router 138 to core 553 on simulator 0
+LINE 555--- Inserted assignment from Router 138 to core 554 on simulator 0
+LINE 556--- Inserted assignment from Router 138 to core 555 on simulator 0
+LINE 557--- Inserted assignment from Router 139 to core 556 on simulator 0
+LINE 558--- Inserted assignment from Router 139 to core 557 on simulator 0
+LINE 559--- Inserted assignment from Router 139 to core 558 on simulator 0
+LINE 560--- Inserted assignment from Router 139 to core 559 on simulator 0
+LINE 561--- Inserted assignment from Router 140 to core 560 on simulator 0
+LINE 562--- Inserted assignment from Router 140 to core 561 on simulator 0
+LINE 563--- Inserted assignment from Router 140 to core 562 on simulator 0
+LINE 564--- Inserted assignment from Router 140 to core 563 on simulator 0
+LINE 565--- Inserted assignment from Router 141 to core 564 on simulator 0
+LINE 566--- Inserted assignment from Router 141 to core 565 on simulator 0
+LINE 567--- Inserted assignment from Router 141 to core 566 on simulator 0
+LINE 568--- Inserted assignment from Router 141 to core 567 on simulator 0
+LINE 569--- Inserted assignment from Router 142 to core 568 on simulator 0
+LINE 570--- Inserted assignment from Router 142 to core 569 on simulator 0
+LINE 571--- Inserted assignment from Router 142 to core 570 on simulator 0
+LINE 572--- Inserted assignment from Router 142 to core 571 on simulator 0
+LINE 573--- Inserted assignment from Router 143 to core 572 on simulator 0
+LINE 574--- Inserted assignment from Router 143 to core 573 on simulator 0
+LINE 575--- Inserted assignment from Router 143 to core 574 on simulator 0
+LINE 576--- Inserted assignment from Router 143 to core 575 on simulator 0
+LINE 577--- Inserted assignment from Router 144 to core 576 on simulator 0
+LINE 578--- Inserted assignment from Router 144 to core 577 on simulator 0
+LINE 579--- Inserted assignment from Router 144 to core 578 on simulator 0
+LINE 580--- Inserted assignment from Router 144 to core 579 on simulator 0
+LINE 581--- Inserted assignment from Router 145 to core 580 on simulator 0
+LINE 582--- Inserted assignment from Router 145 to core 581 on simulator 0
+LINE 583--- Inserted assignment from Router 145 to core 582 on simulator 0
+LINE 584--- Inserted assignment from Router 145 to core 583 on simulator 0
+LINE 585--- Inserted assignment from Router 146 to core 584 on simulator 0
+LINE 586--- Inserted assignment from Router 146 to core 585 on simulator 0
+LINE 587--- Inserted assignment from Router 146 to core 586 on simulator 0
+LINE 588--- Inserted assignment from Router 146 to core 587 on simulator 0
+LINE 589--- Inserted assignment from Router 147 to core 588 on simulator 0
+LINE 590--- Inserted assignment from Router 147 to core 589 on simulator 0
+LINE 591--- Inserted assignment from Router 147 to core 590 on simulator 0
+LINE 592--- Inserted assignment from Router 147 to core 591 on simulator 0
+LINE 593--- Inserted assignment from Router 148 to core 592 on simulator 0
+LINE 594--- Inserted assignment from Router 148 to core 593 on simulator 0
+LINE 595--- Inserted assignment from Router 148 to core 594 on simulator 0
+LINE 596--- Inserted assignment from Router 148 to core 595 on simulator 0
+LINE 597--- Inserted assignment from Router 149 to core 596 on simulator 0
+LINE 598--- Inserted assignment from Router 149 to core 597 on simulator 0
+LINE 599--- Inserted assignment from Router 149 to core 598 on simulator 0
+LINE 600--- Inserted assignment from Router 149 to core 599 on simulator 0
+LINE 601--- Inserted assignment from Router 150 to core 600 on simulator 0
+LINE 602--- Inserted assignment from Router 150 to core 601 on simulator 0
+LINE 603--- Inserted assignment from Router 150 to core 602 on simulator 0
+LINE 604--- Inserted assignment from Router 150 to core 603 on simulator 0
+LINE 605--- Inserted assignment from Router 151 to core 604 on simulator 0
+LINE 606--- Inserted assignment from Router 151 to core 605 on simulator 0
+LINE 607--- Inserted assignment from Router 151 to core 606 on simulator 0
+LINE 608--- Inserted assignment from Router 151 to core 607 on simulator 0
+LINE 609--- Inserted assignment from Router 152 to core 608 on simulator 0
+LINE 610--- Inserted assignment from Router 152 to core 609 on simulator 0
+LINE 611--- Inserted assignment from Router 152 to core 610 on simulator 0
+LINE 612--- Inserted assignment from Router 152 to core 611 on simulator 0
+LINE 613--- Inserted assignment from Router 153 to core 612 on simulator 0
+LINE 614--- Inserted assignment from Router 153 to core 613 on simulator 0
+LINE 615--- Inserted assignment from Router 153 to core 614 on simulator 0
+LINE 616--- Inserted assignment from Router 153 to core 615 on simulator 0
+LINE 617--- Inserted assignment from Router 154 to core 616 on simulator 0
+LINE 618--- Inserted assignment from Router 154 to core 617 on simulator 0
+LINE 619--- Inserted assignment from Router 154 to core 618 on simulator 0
+LINE 620--- Inserted assignment from Router 154 to core 619 on simulator 0
+LINE 621--- Inserted assignment from Router 155 to core 620 on simulator 0
+LINE 622--- Inserted assignment from Router 155 to core 621 on simulator 0
+LINE 623--- Inserted assignment from Router 155 to core 622 on simulator 0
+LINE 624--- Inserted assignment from Router 155 to core 623 on simulator 0
+LINE 625--- Inserted assignment from Router 156 to core 624 on simulator 0
+LINE 626--- Inserted assignment from Router 156 to core 625 on simulator 0
+LINE 627--- Inserted assignment from Router 156 to core 626 on simulator 0
+LINE 628--- Inserted assignment from Router 156 to core 627 on simulator 0
+LINE 629--- Inserted assignment from Router 157 to core 628 on simulator 0
+LINE 630--- Inserted assignment from Router 157 to core 629 on simulator 0
+LINE 631--- Inserted assignment from Router 157 to core 630 on simulator 0
+LINE 632--- Inserted assignment from Router 157 to core 631 on simulator 0
+LINE 633--- Inserted assignment from Router 158 to core 632 on simulator 0
+LINE 634--- Inserted assignment from Router 158 to core 633 on simulator 0
+LINE 635--- Inserted assignment from Router 158 to core 634 on simulator 0
+LINE 636--- Inserted assignment from Router 158 to core 635 on simulator 0
+LINE 637--- Inserted assignment from Router 159 to core 636 on simulator 0
+LINE 638--- Inserted assignment from Router 159 to core 637 on simulator 0
+LINE 639--- Inserted assignment from Router 159 to core 638 on simulator 0
+LINE 640--- Inserted assignment from Router 159 to core 639 on simulator 0
+LINE 641--- Inserted assignment from Router 160 to core 640 on simulator 0
+LINE 642--- Inserted assignment from Router 160 to core 641 on simulator 0
+LINE 643--- Inserted assignment from Router 160 to core 642 on simulator 0
+LINE 644--- Inserted assignment from Router 160 to core 643 on simulator 0
+LINE 645--- Inserted assignment from Router 161 to core 644 on simulator 0
+LINE 646--- Inserted assignment from Router 161 to core 645 on simulator 0
+LINE 647--- Inserted assignment from Router 161 to core 646 on simulator 0
+LINE 648--- Inserted assignment from Router 161 to core 647 on simulator 0
+LINE 649--- Inserted assignment from Router 162 to core 648 on simulator 0
+LINE 650--- Inserted assignment from Router 162 to core 649 on simulator 0
+LINE 651--- Inserted assignment from Router 162 to core 650 on simulator 0
+LINE 652--- Inserted assignment from Router 162 to core 651 on simulator 0
+LINE 653--- Inserted assignment from Router 163 to core 652 on simulator 0
+LINE 654--- Inserted assignment from Router 163 to core 653 on simulator 0
+LINE 655--- Inserted assignment from Router 163 to core 654 on simulator 0
+LINE 656--- Inserted assignment from Router 163 to core 655 on simulator 0
+LINE 657--- Inserted assignment from Router 164 to core 656 on simulator 0
+LINE 658--- Inserted assignment from Router 164 to core 657 on simulator 0
+LINE 659--- Inserted assignment from Router 164 to core 658 on simulator 0
+LINE 660--- Inserted assignment from Router 164 to core 659 on simulator 0
+LINE 661--- Inserted assignment from Router 165 to core 660 on simulator 0
+LINE 662--- Inserted assignment from Router 165 to core 661 on simulator 0
+LINE 663--- Inserted assignment from Router 165 to core 662 on simulator 0
+LINE 664--- Inserted assignment from Router 165 to core 663 on simulator 0
+LINE 665--- Inserted assignment from Router 166 to core 664 on simulator 0
+LINE 666--- Inserted assignment from Router 166 to core 665 on simulator 0
+LINE 667--- Inserted assignment from Router 166 to core 666 on simulator 0
+LINE 668--- Inserted assignment from Router 166 to core 667 on simulator 0
+LINE 669--- Inserted assignment from Router 167 to core 668 on simulator 0
+LINE 670--- Inserted assignment from Router 167 to core 669 on simulator 0
+LINE 671--- Inserted assignment from Router 167 to core 670 on simulator 0
+LINE 672--- Inserted assignment from Router 167 to core 671 on simulator 0
+LINE 673--- Inserted assignment from Router 168 to core 672 on simulator 0
+LINE 674--- Inserted assignment from Router 168 to core 673 on simulator 0
+LINE 675--- Inserted assignment from Router 168 to core 674 on simulator 0
+LINE 676--- Inserted assignment from Router 168 to core 675 on simulator 0
+LINE 677--- Inserted assignment from Router 169 to core 676 on simulator 0
+LINE 678--- Inserted assignment from Router 169 to core 677 on simulator 0
+LINE 679--- Inserted assignment from Router 169 to core 678 on simulator 0
+LINE 680--- Inserted assignment from Router 169 to core 679 on simulator 0
+LINE 681--- Inserted assignment from Router 170 to core 680 on simulator 0
+LINE 682--- Inserted assignment from Router 170 to core 681 on simulator 0
+LINE 683--- Inserted assignment from Router 170 to core 682 on simulator 0
+LINE 684--- Inserted assignment from Router 170 to core 683 on simulator 0
+LINE 685--- Inserted assignment from Router 171 to core 684 on simulator 0
+LINE 686--- Inserted assignment from Router 171 to core 685 on simulator 0
+LINE 687--- Inserted assignment from Router 171 to core 686 on simulator 0
+LINE 688--- Inserted assignment from Router 171 to core 687 on simulator 0
+LINE 689--- Inserted assignment from Router 172 to core 688 on simulator 0
+LINE 690--- Inserted assignment from Router 172 to core 689 on simulator 0
+LINE 691--- Inserted assignment from Router 172 to core 690 on simulator 0
+LINE 692--- Inserted assignment from Router 172 to core 691 on simulator 0
+LINE 693--- Inserted assignment from Router 173 to core 692 on simulator 0
+LINE 694--- Inserted assignment from Router 173 to core 693 on simulator 0
+LINE 695--- Inserted assignment from Router 173 to core 694 on simulator 0
+LINE 696--- Inserted assignment from Router 173 to core 695 on simulator 0
+LINE 697--- Inserted assignment from Router 174 to core 696 on simulator 0
+LINE 698--- Inserted assignment from Router 174 to core 697 on simulator 0
+LINE 699--- Inserted assignment from Router 174 to core 698 on simulator 0
+LINE 700--- Inserted assignment from Router 174 to core 699 on simulator 0
+LINE 701--- Inserted assignment from Router 175 to core 700 on simulator 0
+LINE 702--- Inserted assignment from Router 175 to core 701 on simulator 0
+LINE 703--- Inserted assignment from Router 175 to core 702 on simulator 0
+LINE 704--- Inserted assignment from Router 175 to core 703 on simulator 0
+LINE 705--- Inserted assignment from Router 176 to core 704 on simulator 0
+LINE 706--- Inserted assignment from Router 176 to core 705 on simulator 0
+LINE 707--- Inserted assignment from Router 176 to core 706 on simulator 0
+LINE 708--- Inserted assignment from Router 176 to core 707 on simulator 0
+LINE 709--- Inserted assignment from Router 177 to core 708 on simulator 0
+LINE 710--- Inserted assignment from Router 177 to core 709 on simulator 0
+LINE 711--- Inserted assignment from Router 177 to core 710 on simulator 0
+LINE 712--- Inserted assignment from Router 177 to core 711 on simulator 0
+LINE 713--- Inserted assignment from Router 178 to core 712 on simulator 0
+LINE 714--- Inserted assignment from Router 178 to core 713 on simulator 0
+LINE 715--- Inserted assignment from Router 178 to core 714 on simulator 0
+LINE 716--- Inserted assignment from Router 178 to core 715 on simulator 0
+LINE 717--- Inserted assignment from Router 179 to core 716 on simulator 0
+LINE 718--- Inserted assignment from Router 179 to core 717 on simulator 0
+LINE 719--- Inserted assignment from Router 179 to core 718 on simulator 0
+LINE 720--- Inserted assignment from Router 179 to core 719 on simulator 0
+LINE 721--- Inserted assignment from Router 180 to core 720 on simulator 0
+LINE 722--- Inserted assignment from Router 180 to core 721 on simulator 0
+LINE 723--- Inserted assignment from Router 180 to core 722 on simulator 0
+LINE 724--- Inserted assignment from Router 180 to core 723 on simulator 0
+LINE 725--- Inserted assignment from Router 181 to core 724 on simulator 0
+LINE 726--- Inserted assignment from Router 181 to core 725 on simulator 0
+LINE 727--- Inserted assignment from Router 181 to core 726 on simulator 0
+LINE 728--- Inserted assignment from Router 181 to core 727 on simulator 0
+LINE 729--- Inserted assignment from Router 182 to core 728 on simulator 0
+LINE 730--- Inserted assignment from Router 182 to core 729 on simulator 0
+LINE 731--- Inserted assignment from Router 182 to core 730 on simulator 0
+LINE 732--- Inserted assignment from Router 182 to core 731 on simulator 0
+LINE 733--- Inserted assignment from Router 183 to core 732 on simulator 0
+LINE 734--- Inserted assignment from Router 183 to core 733 on simulator 0
+LINE 735--- Inserted assignment from Router 183 to core 734 on simulator 0
+LINE 736--- Inserted assignment from Router 183 to core 735 on simulator 0
+LINE 737--- Inserted assignment from Router 184 to core 736 on simulator 0
+LINE 738--- Inserted assignment from Router 184 to core 737 on simulator 0
+LINE 739--- Inserted assignment from Router 184 to core 738 on simulator 0
+LINE 740--- Inserted assignment from Router 184 to core 739 on simulator 0
+LINE 741--- Inserted assignment from Router 185 to core 740 on simulator 0
+LINE 742--- Inserted assignment from Router 185 to core 741 on simulator 0
+LINE 743--- Inserted assignment from Router 185 to core 742 on simulator 0
+LINE 744--- Inserted assignment from Router 185 to core 743 on simulator 0
+LINE 745--- Inserted assignment from Router 186 to core 744 on simulator 0
+LINE 746--- Inserted assignment from Router 186 to core 745 on simulator 0
+LINE 747--- Inserted assignment from Router 186 to core 746 on simulator 0
+LINE 748--- Inserted assignment from Router 186 to core 747 on simulator 0
+LINE 749--- Inserted assignment from Router 187 to core 748 on simulator 0
+LINE 750--- Inserted assignment from Router 187 to core 749 on simulator 0
+LINE 751--- Inserted assignment from Router 187 to core 750 on simulator 0
+LINE 752--- Inserted assignment from Router 187 to core 751 on simulator 0
+LINE 753--- Inserted assignment from Router 188 to core 752 on simulator 0
+LINE 754--- Inserted assignment from Router 188 to core 753 on simulator 0
+LINE 755--- Inserted assignment from Router 188 to core 754 on simulator 0
+LINE 756--- Inserted assignment from Router 188 to core 755 on simulator 0
+LINE 757--- Inserted assignment from Router 189 to core 756 on simulator 0
+LINE 758--- Inserted assignment from Router 189 to core 757 on simulator 0
+LINE 759--- Inserted assignment from Router 189 to core 758 on simulator 0
+LINE 760--- Inserted assignment from Router 189 to core 759 on simulator 0
+LINE 761--- Inserted assignment from Router 190 to core 760 on simulator 0
+LINE 762--- Inserted assignment from Router 190 to core 761 on simulator 0
+LINE 763--- Inserted assignment from Router 190 to core 762 on simulator 0
+LINE 764--- Inserted assignment from Router 190 to core 763 on simulator 0
+LINE 765--- Inserted assignment from Router 191 to core 764 on simulator 0
+LINE 766--- Inserted assignment from Router 191 to core 765 on simulator 0
+LINE 767--- Inserted assignment from Router 191 to core 766 on simulator 0
+LINE 768--- Inserted assignment from Router 191 to core 767 on simulator 0
+LINE 769--- Inserted assignment from Router 192 to core 768 on simulator 0
+LINE 770--- Inserted assignment from Router 192 to core 769 on simulator 0
+LINE 771--- Inserted assignment from Router 192 to core 770 on simulator 0
+LINE 772--- Inserted assignment from Router 192 to core 771 on simulator 0
+LINE 773--- Inserted assignment from Router 193 to core 772 on simulator 0
+LINE 774--- Inserted assignment from Router 193 to core 773 on simulator 0
+LINE 775--- Inserted assignment from Router 193 to core 774 on simulator 0
+LINE 776--- Inserted assignment from Router 193 to core 775 on simulator 0
+LINE 777--- Inserted assignment from Router 194 to core 776 on simulator 0
+LINE 778--- Inserted assignment from Router 194 to core 777 on simulator 0
+LINE 779--- Inserted assignment from Router 194 to core 778 on simulator 0
+LINE 780--- Inserted assignment from Router 194 to core 779 on simulator 0
+LINE 781--- Inserted assignment from Router 195 to core 780 on simulator 0
+LINE 782--- Inserted assignment from Router 195 to core 781 on simulator 0
+LINE 783--- Inserted assignment from Router 195 to core 782 on simulator 0
+LINE 784--- Inserted assignment from Router 195 to core 783 on simulator 0
+LINE 785--- Inserted assignment from Router 196 to core 784 on simulator 0
+LINE 786--- Inserted assignment from Router 196 to core 785 on simulator 0
+LINE 787--- Inserted assignment from Router 196 to core 786 on simulator 0
+LINE 788--- Inserted assignment from Router 196 to core 787 on simulator 0
+LINE 789--- Inserted assignment from Router 197 to core 788 on simulator 0
+LINE 790--- Inserted assignment from Router 197 to core 789 on simulator 0
+LINE 791--- Inserted assignment from Router 197 to core 790 on simulator 0
+LINE 792--- Inserted assignment from Router 197 to core 791 on simulator 0
+LINE 793--- Inserted assignment from Router 198 to core 792 on simulator 0
+LINE 794--- Inserted assignment from Router 198 to core 793 on simulator 0
+LINE 795--- Inserted assignment from Router 198 to core 794 on simulator 0
+LINE 796--- Inserted assignment from Router 198 to core 795 on simulator 0
+LINE 797--- Inserted assignment from Router 199 to core 796 on simulator 0
+LINE 798--- Inserted assignment from Router 199 to core 797 on simulator 0
+LINE 799--- Inserted assignment from Router 199 to core 798 on simulator 0
+LINE 800--- Inserted assignment from Router 199 to core 799 on simulator 0
+LINE 801--- Inserted assignment from Router 200 to core 800 on simulator 0
+LINE 802--- Inserted assignment from Router 200 to core 801 on simulator 0
+LINE 803--- Inserted assignment from Router 200 to core 802 on simulator 0
+LINE 804--- Inserted assignment from Router 200 to core 803 on simulator 0
+LINE 805--- Inserted assignment from Router 201 to core 804 on simulator 0
+LINE 806--- Inserted assignment from Router 201 to core 805 on simulator 0
+LINE 807--- Inserted assignment from Router 201 to core 806 on simulator 0
+LINE 808--- Inserted assignment from Router 201 to core 807 on simulator 0
+LINE 809--- Inserted assignment from Router 202 to core 808 on simulator 0
+LINE 810--- Inserted assignment from Router 202 to core 809 on simulator 0
+LINE 811--- Inserted assignment from Router 202 to core 810 on simulator 0
+LINE 812--- Inserted assignment from Router 202 to core 811 on simulator 0
+LINE 813--- Inserted assignment from Router 203 to core 812 on simulator 0
+LINE 814--- Inserted assignment from Router 203 to core 813 on simulator 0
+LINE 815--- Inserted assignment from Router 203 to core 814 on simulator 0
+LINE 816--- Inserted assignment from Router 203 to core 815 on simulator 0
+LINE 817--- Inserted assignment from Router 204 to core 816 on simulator 0
+LINE 818--- Inserted assignment from Router 204 to core 817 on simulator 0
+LINE 819--- Inserted assignment from Router 204 to core 818 on simulator 0
+LINE 820--- Inserted assignment from Router 204 to core 819 on simulator 0
+LINE 821--- Inserted assignment from Router 205 to core 820 on simulator 0
+LINE 822--- Inserted assignment from Router 205 to core 821 on simulator 0
+LINE 823--- Inserted assignment from Router 205 to core 822 on simulator 0
+LINE 824--- Inserted assignment from Router 205 to core 823 on simulator 0
+LINE 825--- Inserted assignment from Router 206 to core 824 on simulator 0
+LINE 826--- Inserted assignment from Router 206 to core 825 on simulator 0
+LINE 827--- Inserted assignment from Router 206 to core 826 on simulator 0
+LINE 828--- Inserted assignment from Router 206 to core 827 on simulator 0
+LINE 829--- Inserted assignment from Router 207 to core 828 on simulator 0
+LINE 830--- Inserted assignment from Router 207 to core 829 on simulator 0
+LINE 831--- Inserted assignment from Router 207 to core 830 on simulator 0
+LINE 832--- Inserted assignment from Router 207 to core 831 on simulator 0
+LINE 833--- Inserted assignment from Router 208 to core 832 on simulator 0
+LINE 834--- Inserted assignment from Router 208 to core 833 on simulator 0
+LINE 835--- Inserted assignment from Router 208 to core 834 on simulator 0
+LINE 836--- Inserted assignment from Router 208 to core 835 on simulator 0
+LINE 837--- Inserted assignment from Router 209 to core 836 on simulator 0
+LINE 838--- Inserted assignment from Router 209 to core 837 on simulator 0
+LINE 839--- Inserted assignment from Router 209 to core 838 on simulator 0
+LINE 840--- Inserted assignment from Router 209 to core 839 on simulator 0
+LINE 841--- Inserted assignment from Router 210 to core 840 on simulator 0
+LINE 842--- Inserted assignment from Router 210 to core 841 on simulator 0
+LINE 843--- Inserted assignment from Router 210 to core 842 on simulator 0
+LINE 844--- Inserted assignment from Router 210 to core 843 on simulator 0
+LINE 845--- Inserted assignment from Router 211 to core 844 on simulator 0
+LINE 846--- Inserted assignment from Router 211 to core 845 on simulator 0
+LINE 847--- Inserted assignment from Router 211 to core 846 on simulator 0
+LINE 848--- Inserted assignment from Router 211 to core 847 on simulator 0
+LINE 849--- Inserted assignment from Router 212 to core 848 on simulator 0
+LINE 850--- Inserted assignment from Router 212 to core 849 on simulator 0
+LINE 851--- Inserted assignment from Router 212 to core 850 on simulator 0
+LINE 852--- Inserted assignment from Router 212 to core 851 on simulator 0
+LINE 853--- Inserted assignment from Router 213 to core 852 on simulator 0
+LINE 854--- Inserted assignment from Router 213 to core 853 on simulator 0
+LINE 855--- Inserted assignment from Router 213 to core 854 on simulator 0
+LINE 856--- Inserted assignment from Router 213 to core 855 on simulator 0
+LINE 857--- Inserted assignment from Router 214 to core 856 on simulator 0
+LINE 858--- Inserted assignment from Router 214 to core 857 on simulator 0
+LINE 859--- Inserted assignment from Router 214 to core 858 on simulator 0
+LINE 860--- Inserted assignment from Router 214 to core 859 on simulator 0
+LINE 861--- Inserted assignment from Router 215 to core 860 on simulator 0
+LINE 862--- Inserted assignment from Router 215 to core 861 on simulator 0
+LINE 863--- Inserted assignment from Router 215 to core 862 on simulator 0
+LINE 864--- Inserted assignment from Router 215 to core 863 on simulator 0
+LINE 865--- Inserted assignment from Router 216 to core 864 on simulator 0
+LINE 866--- Inserted assignment from Router 216 to core 865 on simulator 0
+LINE 867--- Inserted assignment from Router 216 to core 866 on simulator 0
+LINE 868--- Inserted assignment from Router 216 to core 867 on simulator 0
+LINE 869--- Inserted assignment from Router 217 to core 868 on simulator 0
+LINE 870--- Inserted assignment from Router 217 to core 869 on simulator 0
+LINE 871--- Inserted assignment from Router 217 to core 870 on simulator 0
+LINE 872--- Inserted assignment from Router 217 to core 871 on simulator 0
+LINE 873--- Inserted assignment from Router 218 to core 872 on simulator 0
+LINE 874--- Inserted assignment from Router 218 to core 873 on simulator 0
+LINE 875--- Inserted assignment from Router 218 to core 874 on simulator 0
+LINE 876--- Inserted assignment from Router 218 to core 875 on simulator 0
+LINE 877--- Inserted assignment from Router 219 to core 876 on simulator 0
+LINE 878--- Inserted assignment from Router 219 to core 877 on simulator 0
+LINE 879--- Inserted assignment from Router 219 to core 878 on simulator 0
+LINE 880--- Inserted assignment from Router 219 to core 879 on simulator 0
+LINE 881--- Inserted assignment from Router 220 to core 880 on simulator 0
+LINE 882--- Inserted assignment from Router 220 to core 881 on simulator 0
+LINE 883--- Inserted assignment from Router 220 to core 882 on simulator 0
+LINE 884--- Inserted assignment from Router 220 to core 883 on simulator 0
+LINE 885--- Inserted assignment from Router 221 to core 884 on simulator 0
+LINE 886--- Inserted assignment from Router 221 to core 885 on simulator 0
+LINE 887--- Inserted assignment from Router 221 to core 886 on simulator 0
+LINE 888--- Inserted assignment from Router 221 to core 887 on simulator 0
+LINE 889--- Inserted assignment from Router 222 to core 888 on simulator 0
+LINE 890--- Inserted assignment from Router 222 to core 889 on simulator 0
+LINE 891--- Inserted assignment from Router 222 to core 890 on simulator 0
+LINE 892--- Inserted assignment from Router 222 to core 891 on simulator 0
+LINE 893--- Inserted assignment from Router 223 to core 892 on simulator 0
+LINE 894--- Inserted assignment from Router 223 to core 893 on simulator 0
+LINE 895--- Inserted assignment from Router 223 to core 894 on simulator 0
+LINE 896--- Inserted assignment from Router 223 to core 895 on simulator 0
+LINE 897--- Inserted assignment from Router 224 to core 896 on simulator 0
+LINE 898--- Inserted assignment from Router 224 to core 897 on simulator 0
+LINE 899--- Inserted assignment from Router 224 to core 898 on simulator 0
+LINE 900--- Inserted assignment from Router 224 to core 899 on simulator 0
+LINE 901--- Inserted assignment from Router 225 to core 900 on simulator 0
+LINE 902--- Inserted assignment from Router 225 to core 901 on simulator 0
+LINE 903--- Inserted assignment from Router 225 to core 902 on simulator 0
+LINE 904--- Inserted assignment from Router 225 to core 903 on simulator 0
+LINE 905--- Inserted assignment from Router 226 to core 904 on simulator 0
+LINE 906--- Inserted assignment from Router 226 to core 905 on simulator 0
+LINE 907--- Inserted assignment from Router 226 to core 906 on simulator 0
+LINE 908--- Inserted assignment from Router 226 to core 907 on simulator 0
+LINE 909--- Inserted assignment from Router 227 to core 908 on simulator 0
+LINE 910--- Inserted assignment from Router 227 to core 909 on simulator 0
+LINE 911--- Inserted assignment from Router 227 to core 910 on simulator 0
+LINE 912--- Inserted assignment from Router 227 to core 911 on simulator 0
+LINE 913--- Inserted assignment from Router 228 to core 912 on simulator 0
+LINE 914--- Inserted assignment from Router 228 to core 913 on simulator 0
+LINE 915--- Inserted assignment from Router 228 to core 914 on simulator 0
+LINE 916--- Inserted assignment from Router 228 to core 915 on simulator 0
+LINE 917--- Inserted assignment from Router 229 to core 916 on simulator 0
+LINE 918--- Inserted assignment from Router 229 to core 917 on simulator 0
+LINE 919--- Inserted assignment from Router 229 to core 918 on simulator 0
+LINE 920--- Inserted assignment from Router 229 to core 919 on simulator 0
+LINE 921--- Inserted assignment from Router 230 to core 920 on simulator 0
+LINE 922--- Inserted assignment from Router 230 to core 921 on simulator 0
+LINE 923--- Inserted assignment from Router 230 to core 922 on simulator 0
+LINE 924--- Inserted assignment from Router 230 to core 923 on simulator 0
+LINE 925--- Inserted assignment from Router 231 to core 924 on simulator 0
+LINE 926--- Inserted assignment from Router 231 to core 925 on simulator 0
+LINE 927--- Inserted assignment from Router 231 to core 926 on simulator 0
+LINE 928--- Inserted assignment from Router 231 to core 927 on simulator 0
+LINE 929--- Inserted assignment from Router 232 to core 928 on simulator 0
+LINE 930--- Inserted assignment from Router 232 to core 929 on simulator 0
+LINE 931--- Inserted assignment from Router 232 to core 930 on simulator 0
+LINE 932--- Inserted assignment from Router 232 to core 931 on simulator 0
+LINE 933--- Inserted assignment from Router 233 to core 932 on simulator 0
+LINE 934--- Inserted assignment from Router 233 to core 933 on simulator 0
+LINE 935--- Inserted assignment from Router 233 to core 934 on simulator 0
+LINE 936--- Inserted assignment from Router 233 to core 935 on simulator 0
+LINE 937--- Inserted assignment from Router 234 to core 936 on simulator 0
+LINE 938--- Inserted assignment from Router 234 to core 937 on simulator 0
+LINE 939--- Inserted assignment from Router 234 to core 938 on simulator 0
+LINE 940--- Inserted assignment from Router 234 to core 939 on simulator 0
+LINE 941--- Inserted assignment from Router 235 to core 940 on simulator 0
+LINE 942--- Inserted assignment from Router 235 to core 941 on simulator 0
+LINE 943--- Inserted assignment from Router 235 to core 942 on simulator 0
+LINE 944--- Inserted assignment from Router 235 to core 943 on simulator 0
+LINE 945--- Inserted assignment from Router 236 to core 944 on simulator 0
+LINE 946--- Inserted assignment from Router 236 to core 945 on simulator 0
+LINE 947--- Inserted assignment from Router 236 to core 946 on simulator 0
+LINE 948--- Inserted assignment from Router 236 to core 947 on simulator 0
+LINE 949--- Inserted assignment from Router 237 to core 948 on simulator 0
+LINE 950--- Inserted assignment from Router 237 to core 949 on simulator 0
+LINE 951--- Inserted assignment from Router 237 to core 950 on simulator 0
+LINE 952--- Inserted assignment from Router 237 to core 951 on simulator 0
+LINE 953--- Inserted assignment from Router 238 to core 952 on simulator 0
+LINE 954--- Inserted assignment from Router 238 to core 953 on simulator 0
+LINE 955--- Inserted assignment from Router 238 to core 954 on simulator 0
+LINE 956--- Inserted assignment from Router 238 to core 955 on simulator 0
+LINE 957--- Inserted assignment from Router 239 to core 956 on simulator 0
+LINE 958--- Inserted assignment from Router 239 to core 957 on simulator 0
+LINE 959--- Inserted assignment from Router 239 to core 958 on simulator 0
+LINE 960--- Inserted assignment from Router 239 to core 959 on simulator 0
+LINE 961--- Inserted assignment from Router 240 to core 960 on simulator 0
+LINE 962--- Inserted assignment from Router 240 to core 961 on simulator 0
+LINE 963--- Inserted assignment from Router 240 to core 962 on simulator 0
+LINE 964--- Inserted assignment from Router 240 to core 963 on simulator 0
+LINE 965--- Inserted assignment from Router 241 to core 964 on simulator 0
+LINE 966--- Inserted assignment from Router 241 to core 965 on simulator 0
+LINE 967--- Inserted assignment from Router 241 to core 966 on simulator 0
+LINE 968--- Inserted assignment from Router 241 to core 967 on simulator 0
+LINE 969--- Inserted assignment from Router 242 to core 968 on simulator 0
+LINE 970--- Inserted assignment from Router 242 to core 969 on simulator 0
+LINE 971--- Inserted assignment from Router 242 to core 970 on simulator 0
+LINE 972--- Inserted assignment from Router 242 to core 971 on simulator 0
+LINE 973--- Inserted assignment from Router 243 to core 972 on simulator 0
+LINE 974--- Inserted assignment from Router 243 to core 973 on simulator 0
+LINE 975--- Inserted assignment from Router 243 to core 974 on simulator 0
+LINE 976--- Inserted assignment from Router 243 to core 975 on simulator 0
+LINE 977--- Inserted assignment from Router 244 to core 976 on simulator 0
+LINE 978--- Inserted assignment from Router 244 to core 977 on simulator 0
+LINE 979--- Inserted assignment from Router 244 to core 978 on simulator 0
+LINE 980--- Inserted assignment from Router 244 to core 979 on simulator 0
+LINE 981--- Inserted assignment from Router 245 to core 980 on simulator 0
+LINE 982--- Inserted assignment from Router 245 to core 981 on simulator 0
+LINE 983--- Inserted assignment from Router 245 to core 982 on simulator 0
+LINE 984--- Inserted assignment from Router 245 to core 983 on simulator 0
+LINE 985--- Inserted assignment from Router 246 to core 984 on simulator 0
+LINE 986--- Inserted assignment from Router 246 to core 985 on simulator 0
+LINE 987--- Inserted assignment from Router 246 to core 986 on simulator 0
+LINE 988--- Inserted assignment from Router 246 to core 987 on simulator 0
+LINE 989--- Inserted assignment from Router 247 to core 988 on simulator 0
+LINE 990--- Inserted assignment from Router 247 to core 989 on simulator 0
+LINE 991--- Inserted assignment from Router 247 to core 990 on simulator 0
+LINE 992--- Inserted assignment from Router 247 to core 991 on simulator 0
+LINE 993--- Inserted assignment from Router 248 to core 992 on simulator 0
+LINE 994--- Inserted assignment from Router 248 to core 993 on simulator 0
+LINE 995--- Inserted assignment from Router 248 to core 994 on simulator 0
+LINE 996--- Inserted assignment from Router 248 to core 995 on simulator 0
+LINE 997--- Inserted assignment from Router 249 to core 996 on simulator 0
+LINE 998--- Inserted assignment from Router 249 to core 997 on simulator 0
+LINE 999--- Inserted assignment from Router 249 to core 998 on simulator 0
+LINE 1000--- Inserted assignment from Router 249 to core 999 on simulator 0
+LINE 1001--- Inserted assignment from Router 250 to core 1000 on simulator 0
+LINE 1002--- Inserted assignment from Router 250 to core 1001 on simulator 0
+LINE 1003--- Inserted assignment from Router 250 to core 1002 on simulator 0
+LINE 1004--- Inserted assignment from Router 250 to core 1003 on simulator 0
+LINE 1005--- Inserted assignment from Router 251 to core 1004 on simulator 0
+LINE 1006--- Inserted assignment from Router 251 to core 1005 on simulator 0
+LINE 1007--- Inserted assignment from Router 251 to core 1006 on simulator 0
+LINE 1008--- Inserted assignment from Router 251 to core 1007 on simulator 0
+LINE 1009--- Inserted assignment from Router 252 to core 1008 on simulator 0
+LINE 1010--- Inserted assignment from Router 252 to core 1009 on simulator 0
+LINE 1011--- Inserted assignment from Router 252 to core 1010 on simulator 0
+LINE 1012--- Inserted assignment from Router 252 to core 1011 on simulator 0
+LINE 1013--- Inserted assignment from Router 253 to core 1012 on simulator 0
+LINE 1014--- Inserted assignment from Router 253 to core 1013 on simulator 0
+LINE 1015--- Inserted assignment from Router 253 to core 1014 on simulator 0
+LINE 1016--- Inserted assignment from Router 253 to core 1015 on simulator 0
+LINE 1017--- Inserted assignment from Router 254 to core 1016 on simulator 0
+LINE 1018--- Inserted assignment from Router 254 to core 1017 on simulator 0
+LINE 1019--- Inserted assignment from Router 254 to core 1018 on simulator 0
+LINE 1020--- Inserted assignment from Router 254 to core 1019 on simulator 0
+LINE 1021--- Inserted assignment from Router 255 to core 1020 on simulator 0
+LINE 1022--- Inserted assignment from Router 255 to core 1021 on simulator 0
+LINE 1023--- Inserted assignment from Router 255 to core 1022 on simulator 0
+LINE 1024--- Inserted assignment from Router 255 to core 1023 on simulator 0
+1024 0
+1024 1
+1024 2
+1024 3
+1024 4
+1024 5
+1024 6
+1024 7
+1024 8
+1024 9
+1024 10
+1024 11
+1024 12
+1024 13
+1024 14
+1024 15
+1024 16
+1024 17
+1024 18
+1024 19
+1024 20
+1024 21
+1024 22
+1024 23
+1024 24
+1024 25
+1024 26
+1024 27
+1024 28
+1024 29
+1024 30
+1024 31
+1024 32
+1024 33
+1024 34
+1024 35
+1024 36
+1024 37
+1024 38
+1024 39
+1024 40
+1024 41
+1024 42
+1024 43
+1024 44
+1024 45
+1024 46
+1024 47
+1024 48
+1024 49
+1024 50
+1024 51
+1024 52
+1024 53
+1024 54
+1024 55
+1024 56
+1024 57
+1024 58
+1024 59
+1024 60
+1024 61
+1024 62
+1024 63
+1024 64
+1024 65
+1024 66
+1024 67
+1024 68
+1024 69
+1024 70
+1024 71
+1024 72
+1024 73
+1024 74
+1024 75
+1024 76
+1024 77
+1024 78
+1024 79
+1024 80
+1024 81
+1024 82
+1024 83
+1024 84
+1024 85
+1024 86
+1024 87
+1024 88
+1024 89
+1024 90
+1024 91
+1024 92
+1024 93
+1024 94
+1024 95
+1024 96
+1024 97
+1024 98
+1024 99
+1024 100
+1024 101
+1024 102
+1024 103
+1024 104
+1024 105
+1024 106
+1024 107
+1024 108
+1024 109
+1024 110
+1024 111
+1024 112
+1024 113
+1024 114
+1024 115
+1024 116
+1024 117
+1024 118
+1024 119
+1024 120
+1024 121
+1024 122
+1024 123
+1024 124
+1024 125
+1024 126
+1024 127
+1024 128
+1024 129
+1024 130
+1024 131
+1024 132
+1024 133
+1024 134
+1024 135
+1024 136
+1024 137
+1024 138
+1024 139
+1024 140
+1024 141
+1024 142
+1024 143
+1024 144
+1024 145
+1024 146
+1024 147
+1024 148
+1024 149
+1024 150
+1024 151
+1024 152
+1024 153
+1024 154
+1024 155
+1024 156
+1024 157
+1024 158
+1024 159
+1024 160
+1024 161
+1024 162
+1024 163
+1024 164
+1024 165
+1024 166
+1024 167
+1024 168
+1024 169
+1024 170
+1024 171
+1024 172
+1024 173
+1024 174
+1024 175
+1024 176
+1024 177
+1024 178
+1024 179
+1024 180
+1024 181
+1024 182
+1024 183
+1024 184
+1024 185
+1024 186
+1024 187
+1024 188
+1024 189
+1024 190
+1024 191
+1024 192
+1024 193
+1024 194
+1024 195
+1024 196
+1024 197
+1024 198
+1024 199
+1024 200
+1024 201
+1024 202
+1024 203
+1024 204
+1024 205
+1024 206
+1024 207
+1024 208
+1024 209
+1024 210
+1024 211
+1024 212
+1024 213
+1024 214
+1024 215
+1024 216
+1024 217
+1024 218
+1024 219
+1024 220
+1024 221
+1024 222
+1024 223
+1024 224
+1024 225
+1024 226
+1024 227
+1024 228
+1024 229
+1024 230
+1024 231
+1024 232
+1024 233
+1024 234
+1024 235
+1024 236
+1024 237
+1024 238
+1024 239
+1024 240
+1024 241
+1024 242
+1024 243
+1024 244
+1024 245
+1024 246
+1024 247
+1024 248
+1024 249
+1024 250
+1024 251
+1024 252
+1024 253
+1024 254
+1024 255
+1024 256
+1024 257
+1024 258
+1024 259
+1024 260
+1024 261
+1024 262
+1024 263
+1024 264
+1024 265
+1024 266
+1024 267
+1024 268
+1024 269
+1024 270
+1024 271
+1024 272
+1024 273
+1024 274
+1024 275
+1024 276
+1024 277
+1024 278
+1024 279
+1024 280
+1024 281
+1024 282
+1024 283
+1024 284
+1024 285
+1024 286
+1024 287
+1024 288
+1024 289
+1024 290
+1024 291
+1024 292
+1024 293
+1024 294
+1024 295
+1024 296
+1024 297
+1024 298
+1024 299
+1024 300
+1024 301
+1024 302
+1024 303
+1024 304
+1024 305
+1024 306
+1024 307
+1024 308
+1024 309
+1024 310
+1024 311
+1024 312
+1024 313
+1024 314
+1024 315
+1024 316
+1024 317
+1024 318
+1024 319
+1024 320
+1024 321
+1024 322
+1024 323
+1024 324
+1024 325
+1024 326
+1024 327
+1024 328
+1024 329
+1024 330
+1024 331
+1024 332
+1024 333
+1024 334
+1024 335
+1024 336
+1024 337
+1024 338
+1024 339
+1024 340
+1024 341
+1024 342
+1024 343
+1024 344
+1024 345
+1024 346
+1024 347
+1024 348
+1024 349
+1024 350
+1024 351
+1024 352
+1024 353
+1024 354
+1024 355
+1024 356
+1024 357
+1024 358
+1024 359
+1024 360
+1024 361
+1024 362
+1024 363
+1024 364
+1024 365
+1024 366
+1024 367
+1024 368
+1024 369
+1024 370
+1024 371
+1024 372
+1024 373
+1024 374
+1024 375
+1024 376
+1024 377
+1024 378
+1024 379
+1024 380
+1024 381
+1024 382
+1024 383
+1024 384
+1024 385
+1024 386
+1024 387
+1024 388
+1024 389
+1024 390
+1024 391
+1024 392
+1024 393
+1024 394
+1024 395
+1024 396
+1024 397
+1024 398
+1024 399
+1024 400
+1024 401
+1024 402
+1024 403
+1024 404
+1024 405
+1024 406
+1024 407
+1024 408
+1024 409
+1024 410
+1024 411
+1024 412
+1024 413
+1024 414
+1024 415
+1024 416
+1024 417
+1024 418
+1024 419
+1024 420
+1024 421
+1024 422
+1024 423
+1024 424
+1024 425
+1024 426
+1024 427
+1024 428
+1024 429
+1024 430
+1024 431
+1024 432
+1024 433
+1024 434
+1024 435
+1024 436
+1024 437
+1024 438
+1024 439
+1024 440
+1024 441
+1024 442
+1024 443
+1024 444
+1024 445
+1024 446
+1024 447
+1024 448
+1024 449
+1024 450
+1024 451
+1024 452
+1024 453
+1024 454
+1024 455
+1024 456
+1024 457
+1024 458
+1024 459
+1024 460
+1024 461
+1024 462
+1024 463
+1024 464
+1024 465
+1024 466
+1024 467
+1024 468
+1024 469
+1024 470
+1024 471
+1024 472
+1024 473
+1024 474
+1024 475
+1024 476
+1024 477
+1024 478
+1024 479
+1024 480
+1024 481
+1024 482
+1024 483
+1024 484
+1024 485
+1024 486
+1024 487
+1024 488
+1024 489
+1024 490
+1024 491
+1024 492
+1024 493
+1024 494
+1024 495
+1024 496
+1024 497
+1024 498
+1024 499
+1024 500
+1024 501
+1024 502
+1024 503
+1024 504
+1024 505
+1024 506
+1024 507
+1024 508
+1024 509
+1024 510
+1024 511
+1024 512
+1024 513
+1024 514
+1024 515
+1024 516
+1024 517
+1024 518
+1024 519
+1024 520
+1024 521
+1024 522
+1024 523
+1024 524
+1024 525
+1024 526
+1024 527
+1024 528
+1024 529
+1024 530
+1024 531
+1024 532
+1024 533
+1024 534
+1024 535
+1024 536
+1024 537
+1024 538
+1024 539
+1024 540
+1024 541
+1024 542
+1024 543
+1024 544
+1024 545
+1024 546
+1024 547
+1024 548
+1024 549
+1024 550
+1024 551
+1024 552
+1024 553
+1024 554
+1024 555
+1024 556
+1024 557
+1024 558
+1024 559
+1024 560
+1024 561
+1024 562
+1024 563
+1024 564
+1024 565
+1024 566
+1024 567
+1024 568
+1024 569
+1024 570
+1024 571
+1024 572
+1024 573
+1024 574
+1024 575
+1024 576
+1024 577
+1024 578
+1024 579
+1024 580
+1024 581
+1024 582
+1024 583
+1024 584
+1024 585
+1024 586
+1024 587
+1024 588
+1024 589
+1024 590
+1024 591
+1024 592
+1024 593
+1024 594
+1024 595
+1024 596
+1024 597
+1024 598
+1024 599
+1024 600
+1024 601
+1024 602
+1024 603
+1024 604
+1024 605
+1024 606
+1024 607
+1024 608
+1024 609
+1024 610
+1024 611
+1024 612
+1024 613
+1024 614
+1024 615
+1024 616
+1024 617
+1024 618
+1024 619
+1024 620
+1024 621
+1024 622
+1024 623
+1024 624
+1024 625
+1024 626
+1024 627
+1024 628
+1024 629
+1024 630
+1024 631
+1024 632
+1024 633
+1024 634
+1024 635
+1024 636
+1024 637
+1024 638
+1024 639
+1024 640
+1024 641
+1024 642
+1024 643
+1024 644
+1024 645
+1024 646
+1024 647
+1024 648
+1024 649
+1024 650
+1024 651
+1024 652
+1024 653
+1024 654
+1024 655
+1024 656
+1024 657
+1024 658
+1024 659
+1024 660
+1024 661
+1024 662
+1024 663
+1024 664
+1024 665
+1024 666
+1024 667
+1024 668
+1024 669
+1024 670
+1024 671
+1024 672
+1024 673
+1024 674
+1024 675
+1024 676
+1024 677
+1024 678
+1024 679
+1024 680
+1024 681
+1024 682
+1024 683
+1024 684
+1024 685
+1024 686
+1024 687
+1024 688
+1024 689
+1024 690
+1024 691
+1024 692
+1024 693
+1024 694
+1024 695
+1024 696
+1024 697
+1024 698
+1024 699
+1024 700
+1024 701
+1024 702
+1024 703
+1024 704
+1024 705
+1024 706
+1024 707
+1024 708
+1024 709
+1024 710
+1024 711
+1024 712
+1024 713
+1024 714
+1024 715
+1024 716
+1024 717
+1024 718
+1024 719
+1024 720
+1024 721
+1024 722
+1024 723
+1024 724
+1024 725
+1024 726
+1024 727
+1024 728
+1024 729
+1024 730
+1024 731
+1024 732
+1024 733
+1024 734
+1024 735
+1024 736
+1024 737
+1024 738
+1024 739
+1024 740
+1024 741
+1024 742
+1024 743
+1024 744
+1024 745
+1024 746
+1024 747
+1024 748
+1024 749
+1024 750
+1024 751
+1024 752
+1024 753
+1024 754
+1024 755
+1024 756
+1024 757
+1024 758
+1024 759
+1024 760
+1024 761
+1024 762
+1024 763
+1024 764
+1024 765
+1024 766
+1024 767
+1024 768
+1024 769
+1024 770
+1024 771
+1024 772
+1024 773
+1024 774
+1024 775
+1024 776
+1024 777
+1024 778
+1024 779
+1024 780
+1024 781
+1024 782
+1024 783
+1024 784
+1024 785
+1024 786
+1024 787
+1024 788
+1024 789
+1024 790
+1024 791
+1024 792
+1024 793
+1024 794
+1024 795
+1024 796
+1024 797
+1024 798
+1024 799
+1024 800
+1024 801
+1024 802
+1024 803
+1024 804
+1024 805
+1024 806
+1024 807
+1024 808
+1024 809
+1024 810
+1024 811
+1024 812
+1024 813
+1024 814
+1024 815
+1024 816
+1024 817
+1024 818
+1024 819
+1024 820
+1024 821
+1024 822
+1024 823
+1024 824
+1024 825
+1024 826
+1024 827
+1024 828
+1024 829
+1024 830
+1024 831
+1024 832
+1024 833
+1024 834
+1024 835
+1024 836
+1024 837
+1024 838
+1024 839
+1024 840
+1024 841
+1024 842
+1024 843
+1024 844
+1024 845
+1024 846
+1024 847
+1024 848
+1024 849
+1024 850
+1024 851
+1024 852
+1024 853
+1024 854
+1024 855
+1024 856
+1024 857
+1024 858
+1024 859
+1024 860
+1024 861
+1024 862
+1024 863
+1024 864
+1024 865
+1024 866
+1024 867
+1024 868
+1024 869
+1024 870
+1024 871
+1024 872
+1024 873
+1024 874
+1024 875
+1024 876
+1024 877
+1024 878
+1024 879
+1024 880
+1024 881
+1024 882
+1024 883
+1024 884
+1024 885
+1024 886
+1024 887
+1024 888
+1024 889
+1024 890
+1024 891
+1024 892
+1024 893
+1024 894
+1024 895
+1024 896
+1024 897
+1024 898
+1024 899
+1024 900
+1024 901
+1024 902
+1024 903
+1024 904
+1024 905
+1024 906
+1024 907
+1024 908
+1024 909
+1024 910
+1024 911
+1024 912
+1024 913
+1024 914
+1024 915
+1024 916
+1024 917
+1024 918
+1024 919
+1024 920
+1024 921
+1024 922
+1024 923
+1024 924
+1024 925
+1024 926
+1024 927
+1024 928
+1024 929
+1024 930
+1024 931
+1024 932
+1024 933
+1024 934
+1024 935
+1024 936
+1024 937
+1024 938
+1024 939
+1024 940
+1024 941
+1024 942
+1024 943
+1024 944
+1024 945
+1024 946
+1024 947
+1024 948
+1024 949
+1024 950
+1024 951
+1024 952
+1024 953
+1024 954
+1024 955
+1024 956
+1024 957
+1024 958
+1024 959
+1024 960
+1024 961
+1024 962
+1024 963
+1024 964
+1024 965
+1024 966
+1024 967
+1024 968
+1024 969
+1024 970
+1024 971
+1024 972
+1024 973
+1024 974
+1024 975
+1024 976
+1024 977
+1024 978
+1024 979
+1024 980
+1024 981
+1024 982
+1024 983
+1024 984
+1024 985
+1024 986
+1024 987
+1024 988
+1024 989
+1024 990
+1024 991
+1024 992
+1024 993
+1024 994
+1024 995
+1024 996
+1024 997
+1024 998
+1024 999
+1024 1000
+1024 1001
+1024 1002
+1024 1003
+1024 1004
+1024 1005
+1024 1006
+1024 1007
+1024 1008
+1024 1009
+1024 1010
+1024 1011
+1024 1012
+1024 1013
+1024 1014
+1024 1015
+1024 1016
+1024 1017
+1024 1018
+1024 1019
+1024 1020
+1024 1021
+1024 1022
+1024 1023
+src0nodes1024
+src1nodes1024
+src2nodes1024
+src3nodes1024
+src4nodes1024
+src5nodes1024
+src6nodes1024
+src7nodes1024
+src8nodes1024
+src9nodes1024
+src10nodes1024
+src11nodes1024
+src12nodes1024
+src13nodes1024
+src14nodes1024
+src15nodes1024
+src16nodes1024
+src17nodes1024
+src18nodes1024
+src19nodes1024
+src20nodes1024
+src21nodes1024
+src22nodes1024
+src23nodes1024
+src24nodes1024
+src25nodes1024
+src26nodes1024
+src27nodes1024
+src28nodes1024
+src29nodes1024
+src30nodes1024
+src31nodes1024
+src32nodes1024
+src33nodes1024
+src34nodes1024
+src35nodes1024
+src36nodes1024
+src37nodes1024
+src38nodes1024
+src39nodes1024
+src40nodes1024
+src41nodes1024
+src42nodes1024
+src43nodes1024
+src44nodes1024
+src45nodes1024
+src46nodes1024
+src47nodes1024
+src48nodes1024
+src49nodes1024
+src50nodes1024
+src51nodes1024
+src52nodes1024
+src53nodes1024
+src54nodes1024
+src55nodes1024
+src56nodes1024
+src57nodes1024
+src58nodes1024
+src59nodes1024
+src60nodes1024
+src61nodes1024
+src62nodes1024
+src63nodes1024
+src64nodes1024
+src65nodes1024
+src66nodes1024
+src67nodes1024
+src68nodes1024
+src69nodes1024
+src70nodes1024
+src71nodes1024
+src72nodes1024
+src73nodes1024
+src74nodes1024
+src75nodes1024
+src76nodes1024
+src77nodes1024
+src78nodes1024
+src79nodes1024
+src80nodes1024
+src81nodes1024
+src82nodes1024
+src83nodes1024
+src84nodes1024
+src85nodes1024
+src86nodes1024
+src87nodes1024
+src88nodes1024
+src89nodes1024
+src90nodes1024
+src91nodes1024
+src92nodes1024
+src93nodes1024
+src94nodes1024
+src95nodes1024
+src96nodes1024
+src97nodes1024
+src98nodes1024
+src99nodes1024
+src100nodes1024
+src101nodes1024
+src102nodes1024
+src103nodes1024
+src104nodes1024
+src105nodes1024
+src106nodes1024
+src107nodes1024
+src108nodes1024
+src109nodes1024
+src110nodes1024
+src111nodes1024
+src112nodes1024
+src113nodes1024
+src114nodes1024
+src115nodes1024
+src116nodes1024
+src117nodes1024
+src118nodes1024
+src119nodes1024
+src120nodes1024
+src121nodes1024
+src122nodes1024
+src123nodes1024
+src124nodes1024
+src125nodes1024
+src126nodes1024
+src127nodes1024
+src128nodes1024
+src129nodes1024
+src130nodes1024
+src131nodes1024
+src132nodes1024
+src133nodes1024
+src134nodes1024
+src135nodes1024
+src136nodes1024
+src137nodes1024
+src138nodes1024
+src139nodes1024
+src140nodes1024
+src141nodes1024
+src142nodes1024
+src143nodes1024
+src144nodes1024
+src145nodes1024
+src146nodes1024
+src147nodes1024
+src148nodes1024
+src149nodes1024
+src150nodes1024
+src151nodes1024
+src152nodes1024
+src153nodes1024
+src154nodes1024
+src155nodes1024
+src156nodes1024
+src157nodes1024
+src158nodes1024
+src159nodes1024
+src160nodes1024
+src161nodes1024
+src162nodes1024
+src163nodes1024
+src164nodes1024
+src165nodes1024
+src166nodes1024
+src167nodes1024
+src168nodes1024
+src169nodes1024
+src170nodes1024
+src171nodes1024
+src172nodes1024
+src173nodes1024
+src174nodes1024
+src175nodes1024
+src176nodes1024
+src177nodes1024
+src178nodes1024
+src179nodes1024
+src180nodes1024
+src181nodes1024
+src182nodes1024
+src183nodes1024
+src184nodes1024
+src185nodes1024
+src186nodes1024
+src187nodes1024
+src188nodes1024
+src189nodes1024
+src190nodes1024
+src191nodes1024
+src192nodes1024
+src193nodes1024
+src194nodes1024
+src195nodes1024
+src196nodes1024
+src197nodes1024
+src198nodes1024
+src199nodes1024
+src200nodes1024
+src201nodes1024
+src202nodes1024
+src203nodes1024
+src204nodes1024
+src205nodes1024
+src206nodes1024
+src207nodes1024
+src208nodes1024
+src209nodes1024
+src210nodes1024
+src211nodes1024
+src212nodes1024
+src213nodes1024
+src214nodes1024
+src215nodes1024
+src216nodes1024
+src217nodes1024
+src218nodes1024
+src219nodes1024
+src220nodes1024
+src221nodes1024
+src222nodes1024
+src223nodes1024
+src224nodes1024
+src225nodes1024
+src226nodes1024
+src227nodes1024
+src228nodes1024
+src229nodes1024
+src230nodes1024
+src231nodes1024
+src232nodes1024
+src233nodes1024
+src234nodes1024
+src235nodes1024
+src236nodes1024
+src237nodes1024
+src238nodes1024
+src239nodes1024
+src240nodes1024
+src241nodes1024
+src242nodes1024
+src243nodes1024
+src244nodes1024
+src245nodes1024
+src246nodes1024
+src247nodes1024
+src248nodes1024
+src249nodes1024
+src250nodes1024
+src251nodes1024
+src252nodes1024
+src253nodes1024
+src254nodes1024
+src255nodes1024
+src256nodes1024
+src257nodes1024
+src258nodes1024
+src259nodes1024
+src260nodes1024
+src261nodes1024
+src262nodes1024
+src263nodes1024
+src264nodes1024
+src265nodes1024
+src266nodes1024
+src267nodes1024
+src268nodes1024
+src269nodes1024
+src270nodes1024
+src271nodes1024
+src272nodes1024
+src273nodes1024
+src274nodes1024
+src275nodes1024
+src276nodes1024
+src277nodes1024
+src278nodes1024
+src279nodes1024
+src280nodes1024
+src281nodes1024
+src282nodes1024
+src283nodes1024
+src284nodes1024
+src285nodes1024
+src286nodes1024
+src287nodes1024
+src288nodes1024
+src289nodes1024
+src290nodes1024
+src291nodes1024
+src292nodes1024
+src293nodes1024
+src294nodes1024
+src295nodes1024
+src296nodes1024
+src297nodes1024
+src298nodes1024
+src299nodes1024
+src300nodes1024
+src301nodes1024
+src302nodes1024
+src303nodes1024
+src304nodes1024
+src305nodes1024
+src306nodes1024
+src307nodes1024
+src308nodes1024
+src309nodes1024
+src310nodes1024
+src311nodes1024
+src312nodes1024
+src313nodes1024
+src314nodes1024
+src315nodes1024
+src316nodes1024
+src317nodes1024
+src318nodes1024
+src319nodes1024
+src320nodes1024
+src321nodes1024
+src322nodes1024
+src323nodes1024
+src324nodes1024
+src325nodes1024
+src326nodes1024
+src327nodes1024
+src328nodes1024
+src329nodes1024
+src330nodes1024
+src331nodes1024
+src332nodes1024
+src333nodes1024
+src334nodes1024
+src335nodes1024
+src336nodes1024
+src337nodes1024
+src338nodes1024
+src339nodes1024
+src340nodes1024
+src341nodes1024
+src342nodes1024
+src343nodes1024
+src344nodes1024
+src345nodes1024
+src346nodes1024
+src347nodes1024
+src348nodes1024
+src349nodes1024
+src350nodes1024
+src351nodes1024
+src352nodes1024
+src353nodes1024
+src354nodes1024
+src355nodes1024
+src356nodes1024
+src357nodes1024
+src358nodes1024
+src359nodes1024
+src360nodes1024
+src361nodes1024
+src362nodes1024
+src363nodes1024
+src364nodes1024
+src365nodes1024
+src366nodes1024
+src367nodes1024
+src368nodes1024
+src369nodes1024
+src370nodes1024
+src371nodes1024
+src372nodes1024
+src373nodes1024
+src374nodes1024
+src375nodes1024
+src376nodes1024
+src377nodes1024
+src378nodes1024
+src379nodes1024
+src380nodes1024
+src381nodes1024
+src382nodes1024
+src383nodes1024
+src384nodes1024
+src385nodes1024
+src386nodes1024
+src387nodes1024
+src388nodes1024
+src389nodes1024
+src390nodes1024
+src391nodes1024
+src392nodes1024
+src393nodes1024
+src394nodes1024
+src395nodes1024
+src396nodes1024
+src397nodes1024
+src398nodes1024
+src399nodes1024
+src400nodes1024
+src401nodes1024
+src402nodes1024
+src403nodes1024
+src404nodes1024
+src405nodes1024
+src406nodes1024
+src407nodes1024
+src408nodes1024
+src409nodes1024
+src410nodes1024
+src411nodes1024
+src412nodes1024
+src413nodes1024
+src414nodes1024
+src415nodes1024
+src416nodes1024
+src417nodes1024
+src418nodes1024
+src419nodes1024
+src420nodes1024
+src421nodes1024
+src422nodes1024
+src423nodes1024
+src424nodes1024
+src425nodes1024
+src426nodes1024
+src427nodes1024
+src428nodes1024
+src429nodes1024
+src430nodes1024
+src431nodes1024
+src432nodes1024
+src433nodes1024
+src434nodes1024
+src435nodes1024
+src436nodes1024
+src437nodes1024
+src438nodes1024
+src439nodes1024
+src440nodes1024
+src441nodes1024
+src442nodes1024
+src443nodes1024
+src444nodes1024
+src445nodes1024
+src446nodes1024
+src447nodes1024
+src448nodes1024
+src449nodes1024
+src450nodes1024
+src451nodes1024
+src452nodes1024
+src453nodes1024
+src454nodes1024
+src455nodes1024
+src456nodes1024
+src457nodes1024
+src458nodes1024
+src459nodes1024
+src460nodes1024
+src461nodes1024
+src462nodes1024
+src463nodes1024
+src464nodes1024
+src465nodes1024
+src466nodes1024
+src467nodes1024
+src468nodes1024
+src469nodes1024
+src470nodes1024
+src471nodes1024
+src472nodes1024
+src473nodes1024
+src474nodes1024
+src475nodes1024
+src476nodes1024
+src477nodes1024
+src478nodes1024
+src479nodes1024
+src480nodes1024
+src481nodes1024
+src482nodes1024
+src483nodes1024
+src484nodes1024
+src485nodes1024
+src486nodes1024
+src487nodes1024
+src488nodes1024
+src489nodes1024
+src490nodes1024
+src491nodes1024
+src492nodes1024
+src493nodes1024
+src494nodes1024
+src495nodes1024
+src496nodes1024
+src497nodes1024
+src498nodes1024
+src499nodes1024
+src500nodes1024
+src501nodes1024
+src502nodes1024
+src503nodes1024
+src504nodes1024
+src505nodes1024
+src506nodes1024
+src507nodes1024
+src508nodes1024
+src509nodes1024
+src510nodes1024
+src511nodes1024
+src512nodes1024
+src513nodes1024
+src514nodes1024
+src515nodes1024
+src516nodes1024
+src517nodes1024
+src518nodes1024
+src519nodes1024
+src520nodes1024
+src521nodes1024
+src522nodes1024
+src523nodes1024
+src524nodes1024
+src525nodes1024
+src526nodes1024
+src527nodes1024
+src528nodes1024
+src529nodes1024
+src530nodes1024
+src531nodes1024
+src532nodes1024
+src533nodes1024
+src534nodes1024
+src535nodes1024
+src536nodes1024
+src537nodes1024
+src538nodes1024
+src539nodes1024
+src540nodes1024
+src541nodes1024
+src542nodes1024
+src543nodes1024
+src544nodes1024
+src545nodes1024
+src546nodes1024
+src547nodes1024
+src548nodes1024
+src549nodes1024
+src550nodes1024
+src551nodes1024
+src552nodes1024
+src553nodes1024
+src554nodes1024
+src555nodes1024
+src556nodes1024
+src557nodes1024
+src558nodes1024
+src559nodes1024
+src560nodes1024
+src561nodes1024
+src562nodes1024
+src563nodes1024
+src564nodes1024
+src565nodes1024
+src566nodes1024
+src567nodes1024
+src568nodes1024
+src569nodes1024
+src570nodes1024
+src571nodes1024
+src572nodes1024
+src573nodes1024
+src574nodes1024
+src575nodes1024
+src576nodes1024
+src577nodes1024
+src578nodes1024
+src579nodes1024
+src580nodes1024
+src581nodes1024
+src582nodes1024
+src583nodes1024
+src584nodes1024
+src585nodes1024
+src586nodes1024
+src587nodes1024
+src588nodes1024
+src589nodes1024
+src590nodes1024
+src591nodes1024
+src592nodes1024
+src593nodes1024
+src594nodes1024
+src595nodes1024
+src596nodes1024
+src597nodes1024
+src598nodes1024
+src599nodes1024
+src600nodes1024
+src601nodes1024
+src602nodes1024
+src603nodes1024
+src604nodes1024
+src605nodes1024
+src606nodes1024
+src607nodes1024
+src608nodes1024
+src609nodes1024
+src610nodes1024
+src611nodes1024
+src612nodes1024
+src613nodes1024
+src614nodes1024
+src615nodes1024
+src616nodes1024
+src617nodes1024
+src618nodes1024
+src619nodes1024
+src620nodes1024
+src621nodes1024
+src622nodes1024
+src623nodes1024
+src624nodes1024
+src625nodes1024
+src626nodes1024
+src627nodes1024
+src628nodes1024
+src629nodes1024
+src630nodes1024
+src631nodes1024
+src632nodes1024
+src633nodes1024
+src634nodes1024
+src635nodes1024
+src636nodes1024
+src637nodes1024
+src638nodes1024
+src639nodes1024
+src640nodes1024
+src641nodes1024
+src642nodes1024
+src643nodes1024
+src644nodes1024
+src645nodes1024
+src646nodes1024
+src647nodes1024
+src648nodes1024
+src649nodes1024
+src650nodes1024
+src651nodes1024
+src652nodes1024
+src653nodes1024
+src654nodes1024
+src655nodes1024
+src656nodes1024
+src657nodes1024
+src658nodes1024
+src659nodes1024
+src660nodes1024
+src661nodes1024
+src662nodes1024
+src663nodes1024
+src664nodes1024
+src665nodes1024
+src666nodes1024
+src667nodes1024
+src668nodes1024
+src669nodes1024
+src670nodes1024
+src671nodes1024
+src672nodes1024
+src673nodes1024
+src674nodes1024
+src675nodes1024
+src676nodes1024
+src677nodes1024
+src678nodes1024
+src679nodes1024
+src680nodes1024
+src681nodes1024
+src682nodes1024
+src683nodes1024
+src684nodes1024
+src685nodes1024
+src686nodes1024
+src687nodes1024
+src688nodes1024
+src689nodes1024
+src690nodes1024
+src691nodes1024
+src692nodes1024
+src693nodes1024
+src694nodes1024
+src695nodes1024
+src696nodes1024
+src697nodes1024
+src698nodes1024
+src699nodes1024
+src700nodes1024
+src701nodes1024
+src702nodes1024
+src703nodes1024
+src704nodes1024
+src705nodes1024
+src706nodes1024
+src707nodes1024
+src708nodes1024
+src709nodes1024
+src710nodes1024
+src711nodes1024
+src712nodes1024
+src713nodes1024
+src714nodes1024
+src715nodes1024
+src716nodes1024
+src717nodes1024
+src718nodes1024
+src719nodes1024
+src720nodes1024
+src721nodes1024
+src722nodes1024
+src723nodes1024
+src724nodes1024
+src725nodes1024
+src726nodes1024
+src727nodes1024
+src728nodes1024
+src729nodes1024
+src730nodes1024
+src731nodes1024
+src732nodes1024
+src733nodes1024
+src734nodes1024
+src735nodes1024
+src736nodes1024
+src737nodes1024
+src738nodes1024
+src739nodes1024
+src740nodes1024
+src741nodes1024
+src742nodes1024
+src743nodes1024
+src744nodes1024
+src745nodes1024
+src746nodes1024
+src747nodes1024
+src748nodes1024
+src749nodes1024
+src750nodes1024
+src751nodes1024
+src752nodes1024
+src753nodes1024
+src754nodes1024
+src755nodes1024
+src756nodes1024
+src757nodes1024
+src758nodes1024
+src759nodes1024
+src760nodes1024
+src761nodes1024
+src762nodes1024
+src763nodes1024
+src764nodes1024
+src765nodes1024
+src766nodes1024
+src767nodes1024
+src768nodes1024
+src769nodes1024
+src770nodes1024
+src771nodes1024
+src772nodes1024
+src773nodes1024
+src774nodes1024
+src775nodes1024
+src776nodes1024
+src777nodes1024
+src778nodes1024
+src779nodes1024
+src780nodes1024
+src781nodes1024
+src782nodes1024
+src783nodes1024
+src784nodes1024
+src785nodes1024
+src786nodes1024
+src787nodes1024
+src788nodes1024
+src789nodes1024
+src790nodes1024
+src791nodes1024
+src792nodes1024
+src793nodes1024
+src794nodes1024
+src795nodes1024
+src796nodes1024
+src797nodes1024
+src798nodes1024
+src799nodes1024
+src800nodes1024
+src801nodes1024
+src802nodes1024
+src803nodes1024
+src804nodes1024
+src805nodes1024
+src806nodes1024
+src807nodes1024
+src808nodes1024
+src809nodes1024
+src810nodes1024
+src811nodes1024
+src812nodes1024
+src813nodes1024
+src814nodes1024
+src815nodes1024
+src816nodes1024
+src817nodes1024
+src818nodes1024
+src819nodes1024
+src820nodes1024
+src821nodes1024
+src822nodes1024
+src823nodes1024
+src824nodes1024
+src825nodes1024
+src826nodes1024
+src827nodes1024
+src828nodes1024
+src829nodes1024
+src830nodes1024
+src831nodes1024
+src832nodes1024
+src833nodes1024
+src834nodes1024
+src835nodes1024
+src836nodes1024
+src837nodes1024
+src838nodes1024
+src839nodes1024
+src840nodes1024
+src841nodes1024
+src842nodes1024
+src843nodes1024
+src844nodes1024
+src845nodes1024
+src846nodes1024
+src847nodes1024
+src848nodes1024
+src849nodes1024
+src850nodes1024
+src851nodes1024
+src852nodes1024
+src853nodes1024
+src854nodes1024
+src855nodes1024
+src856nodes1024
+src857nodes1024
+src858nodes1024
+src859nodes1024
+src860nodes1024
+src861nodes1024
+src862nodes1024
+src863nodes1024
+src864nodes1024
+src865nodes1024
+src866nodes1024
+src867nodes1024
+src868nodes1024
+src869nodes1024
+src870nodes1024
+src871nodes1024
+src872nodes1024
+src873nodes1024
+src874nodes1024
+src875nodes1024
+src876nodes1024
+src877nodes1024
+src878nodes1024
+src879nodes1024
+src880nodes1024
+src881nodes1024
+src882nodes1024
+src883nodes1024
+src884nodes1024
+src885nodes1024
+src886nodes1024
+src887nodes1024
+src888nodes1024
+src889nodes1024
+src890nodes1024
+src891nodes1024
+src892nodes1024
+src893nodes1024
+src894nodes1024
+src895nodes1024
+src896nodes1024
+src897nodes1024
+src898nodes1024
+src899nodes1024
+src900nodes1024
+src901nodes1024
+src902nodes1024
+src903nodes1024
+src904nodes1024
+src905nodes1024
+src906nodes1024
+src907nodes1024
+src908nodes1024
+src909nodes1024
+src910nodes1024
+src911nodes1024
+src912nodes1024
+src913nodes1024
+src914nodes1024
+src915nodes1024
+src916nodes1024
+src917nodes1024
+src918nodes1024
+src919nodes1024
+src920nodes1024
+src921nodes1024
+src922nodes1024
+src923nodes1024
+src924nodes1024
+src925nodes1024
+src926nodes1024
+src927nodes1024
+src928nodes1024
+src929nodes1024
+src930nodes1024
+src931nodes1024
+src932nodes1024
+src933nodes1024
+src934nodes1024
+src935nodes1024
+src936nodes1024
+src937nodes1024
+src938nodes1024
+src939nodes1024
+src940nodes1024
+src941nodes1024
+src942nodes1024
+src943nodes1024
+src944nodes1024
+src945nodes1024
+src946nodes1024
+src947nodes1024
+src948nodes1024
+src949nodes1024
+src950nodes1024
+src951nodes1024
+src952nodes1024
+src953nodes1024
+src954nodes1024
+src955nodes1024
+src956nodes1024
+src957nodes1024
+src958nodes1024
+src959nodes1024
+src960nodes1024
+src961nodes1024
+src962nodes1024
+src963nodes1024
+src964nodes1024
+src965nodes1024
+src966nodes1024
+src967nodes1024
+src968nodes1024
+src969nodes1024
+src970nodes1024
+src971nodes1024
+src972nodes1024
+src973nodes1024
+src974nodes1024
+src975nodes1024
+src976nodes1024
+src977nodes1024
+src978nodes1024
+src979nodes1024
+src980nodes1024
+src981nodes1024
+src982nodes1024
+src983nodes1024
+src984nodes1024
+src985nodes1024
+src986nodes1024
+src987nodes1024
+src988nodes1024
+src989nodes1024
+src990nodes1024
+src991nodes1024
+src992nodes1024
+src993nodes1024
+src994nodes1024
+src995nodes1024
+src996nodes1024
+src997nodes1024
+src998nodes1024
+src999nodes1024
+src1000nodes1024
+src1001nodes1024
+src1002nodes1024
+src1003nodes1024
+src1004nodes1024
+src1005nodes1024
+src1006nodes1024
+src1007nodes1024
+src1008nodes1024
+src1009nodes1024
+src1010nodes1024
+src1011nodes1024
+src1012nodes1024
+src1013nodes1024
+src1014nodes1024
+src1015nodes1024
+src1016nodes1024
+src1017nodes1024
+src1018nodes1024
+src1019nodes1024
+src1020nodes1024
+src1021nodes1024
+src1022nodes1024
+src1023nodes1024
+hello: 148 740 (src_router:37  dst_router:185 dst_node:740) 32 1
+hello: 740 148 (src_router:185  dst_router:37 dst_node:148) 32 2
+hello: 628 308 (src_router:157  dst_router:77 dst_node:308) 32 3
+hello: 148 36 (src_router:37  dst_router:9 dst_node:36) 8 4
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 36 148 (src_router:9  dst_router:37 dst_node:148) 32 5
+HELLO1 router:185 
+HELLO5 router:185 
+hello: 148 640 (src_router:37  dst_router:160 dst_node:640) 8 6
+HELLO1 router:157 
+HELLO5 router:157 
+hello: 640 148 (src_router:160  dst_router:37 dst_node:148) 8 7
+hello: 372 524 (src_router:93  dst_router:131 dst_node:524) 8 8
+HELLO1 router:9 
+HELLO5 router:9 
+hello: 980 320 (src_router:245  dst_router:80 dst_node:320) 8 9
+hello: 148 704 (src_router:37  dst_router:176 dst_node:704) 32 10
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:160 
+HELLO5 router:160 
+hello: 704 148 (src_router:176  dst_router:37 dst_node:148) 8 11
+HELLO1 router:93 
+HELLO5 router:93 
+HELLO1 router:184 
+HELLO5 router:184 
+hello: 148 624 (src_router:37  dst_router:156 dst_node:624) 32 12
+HELLO1 router:141 
+HELLO5 router:141 
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 624 148 (src_router:156  dst_router:37 dst_node:148) 8 13
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 444 216 (src_router:111  dst_router:54 dst_node:216) 8 14
+HELLO1 router:8 
+HELLO5 router:8 
+HELLO1 router:176 
+HELLO5 router:176 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 24 28 (src_router:6  dst_router:7 dst_node:28) 32 15
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 148 856 (src_router:37  dst_router:214 dst_node:856) 8 16
+HELLO1 router:161 
+HELLO5 router:161 
+HELLO1 router:156 
+HELLO5 router:156 
+HELLO1 router:39 
+HELLO5 router:39 
+hello: 856 148 (src_router:214  dst_router:37 dst_node:148) 32 17
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:111 
+HELLO5 router:111 
+HELLO1 router:92 
+HELLO5 router:92 
+hello: 580 576 (src_router:145  dst_router:144 dst_node:576) 32 18
+HELLO1 router:6 
+HELLO5 router:6 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:244 
+HELLO5 router:244 
+hello: 148 408 (src_router:37  dst_router:102 dst_node:408) 32 19
+HELLO1 router:36 
+HELLO5 router:36 
+hello: 408 148 (src_router:102  dst_router:37 dst_node:148) 32 20
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:177 
+HELLO5 router:177 
+HELLO1 router:7 
+HELLO5 router:7 
+HELLO1 router:36 
+HELLO5 router:36 
+hello: 472 700 (src_router:118  dst_router:175 dst_node:700) 32 21
+HELLO1 router:145 
+HELLO5 router:145 
+HELLO1 router:38 
+HELLO5 router:38 
+hello: 936 472 (src_router:234  dst_router:118 dst_node:472) 8 22
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:155 
+HELLO5 router:155 
+HELLO1 router:162 
+HELLO5 router:162 
+hello: 148 352 (src_router:37  dst_router:88 dst_node:352) 32 23
+HELLO1 router:110 
+HELLO5 router:110 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:91 
+HELLO5 router:91 
+HELLO1 router:182 
+HELLO5 router:182 
+hello: 352 148 (src_router:88  dst_router:37 dst_node:148) 32 24
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:243 
+HELLO5 router:243 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:109 
+HELLO5 router:109 
+HELLO1 router:7 
+HELLO5 router:7 
+HELLO1 router:118 
+HELLO5 router:118 
+hello: 500 448 (src_router:125  dst_router:112 dst_node:448) 8 25
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:35 
+HELLO5 router:35 
+HELLO1 router:234 
+HELLO5 router:234 
+hello: 148 616 (src_router:37  dst_router:154 dst_node:616) 8 26
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:6 
+HELLO5 router:6 
+HELLO1 router:178 
+HELLO5 router:178 
+HELLO1 router:35 
+HELLO5 router:35 
+hello: 616 148 (src_router:154  dst_router:37 dst_node:148) 8 27
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:88 
+HELLO5 router:88 
+hello: 956 884 (src_router:239  dst_router:221 dst_node:884) 8 28
+HELLO1 router:163 
+HELLO5 router:163 
+HELLO1 router:154 
+HELLO5 router:154 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:125 
+HELLO5 router:125 
+hello: 704 920 (src_router:176  dst_router:230 dst_node:920) 8 29
+HELLO1 router:109 
+HELLO5 router:109 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:90 
+HELLO5 router:90 
+hello: 148 596 (src_router:37  dst_router:149 dst_node:596) 8 30
+HELLO1 router:154 
+HELLO5 router:154 
+HELLO1 router:242 
+HELLO5 router:242 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:93 
+HELLO5 router:93 
+hello: 596 148 (src_router:149  dst_router:37 dst_node:148) 8 31
+HELLO1 router:239 
+HELLO5 router:239 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:34 
+HELLO5 router:34 
+HELLO1 router:233 
+HELLO5 router:233 
+hello: 944 320 (src_router:236  dst_router:80 dst_node:320) 32 32
+HELLO1 router:176 
+HELLO5 router:176 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:179 
+HELLO5 router:179 
+HELLO1 router:34 
+HELLO5 router:34 
+HELLO1 router:5 
+HELLO5 router:5 
+HELLO1 router:197 
+HELLO5 router:197 
+hello: 800 572 (src_router:200  dst_router:143 dst_node:572) 32 33
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:40 
+HELLO5 router:40 
+hello: 268 56 (src_router:67  dst_router:14 dst_node:56) 32 34
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:124 
+HELLO5 router:124 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:164 
+HELLO5 router:164 
+HELLO1 router:153 
+HELLO5 router:153 
+hello: 868 792 (src_router:217  dst_router:198 dst_node:792) 8 35
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:108 
+HELLO5 router:108 
+HELLO1 router:236 
+HELLO5 router:236 
+hello: 148 936 (src_router:37  dst_router:234 dst_node:936) 32 36
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:200 
+HELLO5 router:200 
+HELLO1 router:241 
+HELLO5 router:241 
+HELLO1 router:41 
+HELLO5 router:41 
+hello: 936 148 (src_router:234  dst_router:37 dst_node:148) 8 37
+HELLO1 router:67 
+HELLO5 router:67 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:33 
+HELLO5 router:33 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:238 
+HELLO5 router:238 
+hello: 956 664 (src_router:239  dst_router:166 dst_node:664) 8 38
+HELLO1 router:217 
+HELLO5 router:217 
+HELLO1 router:180 
+HELLO5 router:180 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:33 
+HELLO5 router:33 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:153 
+HELLO5 router:153 
+HELLO1 router:177 
+HELLO5 router:177 
+HELLO1 router:39 
+HELLO5 router:39 
+hello: 508 860 (src_router:127  dst_router:215 dst_node:860) 8 39
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:41 
+HELLO5 router:41 
+hello: 756 880 (src_router:189  dst_router:220 dst_node:880) 8 40
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:152 
+HELLO5 router:152 
+HELLO1 router:165 
+HELLO5 router:165 
+hello: 124 172 (src_router:31  dst_router:43 dst_node:172) 32 41
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:107 
+HELLO5 router:107 
+HELLO1 router:235 
+HELLO5 router:235 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:239 
+HELLO5 router:239 
+hello: 148 884 (src_router:37  dst_router:221 dst_node:884) 32 42
+HELLO1 router:25 
+HELLO5 router:25 
+HELLO1 router:127 
+HELLO5 router:127 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:240 
+HELLO5 router:240 
+HELLO1 router:201 
+HELLO5 router:201 
+HELLO1 router:70 
+HELLO5 router:70 
+hello: 884 148 (src_router:221  dst_router:37 dst_node:148) 32 43
+HELLO1 router:70 
+HELLO5 router:70 
+HELLO1 router:189 
+HELLO5 router:189 
+HELLO1 router:68 
+HELLO5 router:68 
+HELLO1 router:32 
+HELLO5 router:32 
+HELLO1 router:237 
+HELLO5 router:237 
+HELLO1 router:231 
+HELLO5 router:231 
+hello: 104 224 (src_router:26  dst_router:56 dst_node:224) 32 44
+HELLO1 router:216 
+HELLO5 router:216 
+HELLO1 router:32 
+HELLO5 router:32 
+HELLO1 router:152 
+HELLO5 router:152 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:31 
+HELLO5 router:31 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:178 
+HELLO5 router:178 
+hello: 148 236 (src_router:37  dst_router:59 dst_node:236) 32 45
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 236 148 (src_router:59  dst_router:37 dst_node:148) 8 46
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:221 
+HELLO5 router:221 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:151 
+HELLO5 router:151 
+hello: 148 756 (src_router:37  dst_router:189 dst_node:756) 32 47
+HELLO1 router:238 
+HELLO5 router:238 
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:26 
+HELLO5 router:26 
+hello: 756 148 (src_router:189  dst_router:37 dst_node:148) 32 48
+HELLO1 router:126 
+HELLO5 router:126 
+HELLO1 router:9 
+HELLO5 router:9 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:202 
+HELLO5 router:202 
+HELLO1 router:224 
+HELLO5 router:224 
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:149 
+HELLO5 router:149 
+hello: 712 100 (src_router:178  dst_router:25 dst_node:100) 32 49
+HELLO1 router:188 
+HELLO5 router:188 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:59 
+HELLO5 router:59 
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:221 
+HELLO5 router:221 
+HELLO1 router:48 
+HELLO5 router:48 
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:165 
+HELLO5 router:165 
+hello: 148 52 (src_router:37  dst_router:13 dst_node:52) 32 50
+HELLO1 router:30 
+HELLO5 router:30 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:151 
+HELLO5 router:151 
+HELLO1 router:215 
+HELLO5 router:215 
+HELLO1 router:179 
+HELLO5 router:179 
+HELLO1 router:48 
+HELLO5 router:48 
+hello: 52 148 (src_router:13  dst_router:37 dst_node:148) 8 51
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:189 
+HELLO5 router:189 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:43 
+HELLO5 router:43 
+hello: 148 736 (src_router:37  dst_router:184 dst_node:736) 32 52
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:178 
+HELLO5 router:178 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:150 
+HELLO5 router:150 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:220 
+HELLO5 router:220 
+hello: 736 148 (src_router:184  dst_router:37 dst_node:148) 32 53
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:25 
+HELLO5 router:25 
+HELLO1 router:237 
+HELLO5 router:237 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 148 92 (src_router:37  dst_router:23 dst_node:92) 32 54
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:13 
+HELLO5 router:13 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:203 
+HELLO5 router:203 
+HELLO1 router:208 
+HELLO5 router:208 
+hello: 92 148 (src_router:23  dst_router:37 dst_node:148) 32 55
+HELLO1 router:70 
+HELLO5 router:70 
+HELLO1 router:204 
+HELLO5 router:204 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:64 
+HELLO5 router:64 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:86 
+HELLO5 router:86 
+hello: 544 828 (src_router:136  dst_router:207 dst_node:828) 32 56
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:64 
+HELLO5 router:64 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:29 
+HELLO5 router:29 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:180 
+HELLO5 router:180 
+HELLO1 router:150 
+HELLO5 router:150 
+hello: 72 952 (src_router:18  dst_router:238 dst_node:952) 8 57
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:188 
+HELLO5 router:188 
+HELLO1 router:69 
+HELLO5 router:69 
+hello: 936 136 (src_router:234  dst_router:34 dst_node:136) 8 58
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:23 
+HELLO5 router:23 
+HELLO1 router:179 
+HELLO5 router:179 
+HELLO1 router:219 
+HELLO5 router:219 
+HELLO1 router:231 
+HELLO5 router:231 
+hello: 148 436 (src_router:37  dst_router:109 dst_node:436) 8 59
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:236 
+HELLO5 router:236 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:24 
+HELLO5 router:24 
+hello: 436 148 (src_router:109  dst_router:37 dst_node:148) 32 60
+HELLO1 router:18 
+HELLO5 router:18 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:204 
+HELLO5 router:204 
+HELLO1 router:124 
+HELLO5 router:124 
+HELLO1 router:12 
+HELLO5 router:12 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:192 
+HELLO5 router:192 
+HELLO1 router:118 
+HELLO5 router:118 
+hello: 552 716 (src_router:138  dst_router:179 dst_node:716) 32 61
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:220 
+HELLO5 router:220 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:71 
+HELLO5 router:71 
+HELLO1 router:80 
+HELLO5 router:80 
+hello: 148 92 (src_router:37  dst_router:23 dst_node:92) 8 62
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:80 
+HELLO5 router:80 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:28 
+HELLO5 router:28 
+hello: 92 148 (src_router:23  dst_router:37 dst_node:148) 8 63
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:109 
+HELLO5 router:109 
+HELLO1 router:187 
+HELLO5 router:187 
+HELLO1 router:60 
+HELLO5 router:60 
+hello: 140 724 (src_router:35  dst_router:181 dst_node:724) 8 64
+HELLO1 router:180 
+HELLO5 router:180 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:218 
+HELLO5 router:218 
+HELLO1 router:22 
+HELLO5 router:22 
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:137 
+HELLO5 router:137 
+hello: 328 1004 (src_router:82  dst_router:251 dst_node:1004) 32 65
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:231 
+HELLO5 router:231 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:103 
+HELLO5 router:103 
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:235 
+HELLO5 router:235 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:137 
+HELLO5 router:137 
+hello: 148 300 (src_router:37  dst_router:75 dst_node:300) 32 66
+HELLO1 router:205 
+HELLO5 router:205 
+HELLO1 router:23 
+HELLO5 router:23 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:11 
+HELLO5 router:11 
+HELLO1 router:19 
+HELLO5 router:19 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:176 
+HELLO5 router:176 
+hello: 300 148 (src_router:75  dst_router:37 dst_node:148) 32 67
+HELLO1 router:35 
+HELLO5 router:35 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:96 
+HELLO5 router:96 
+hello: 148 968 (src_router:37  dst_router:242 dst_node:968) 8 68
+HELLO1 router:82 
+HELLO5 router:82 
+HELLO1 router:27 
+HELLO5 router:27 
+HELLO1 router:96 
+HELLO5 router:96 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:182 
+HELLO5 router:182 
+hello: 968 148 (src_router:242  dst_router:37 dst_node:148) 32 69
+HELLO1 router:84 
+HELLO5 router:84 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:108 
+HELLO5 router:108 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:76 
+HELLO5 router:76 
+hello: 148 492 (src_router:37  dst_router:123 dst_node:492) 8 70
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:153 
+HELLO5 router:153 
+HELLO1 router:75 
+HELLO5 router:75 
+HELLO1 router:217 
+HELLO5 router:217 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:118 
+HELLO5 router:118 
+hello: 492 148 (src_router:123  dst_router:37 dst_node:148) 8 71
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:234 
+HELLO5 router:234 
+hello: 148 400 (src_router:37  dst_router:100 dst_node:400) 8 72
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:160 
+HELLO5 router:160 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:206 
+HELLO5 router:206 
+HELLO1 router:20 
+HELLO5 router:20 
+HELLO1 router:242 
+HELLO5 router:242 
+HELLO1 router:10 
+HELLO5 router:10 
+HELLO1 router:150 
+HELLO5 router:150 
+HELLO1 router:22 
+HELLO5 router:22 
+HELLO1 router:126 
+HELLO5 router:126 
+HELLO1 router:85 
+HELLO5 router:85 
+hello: 400 148 (src_router:100  dst_router:37 dst_node:148) 32 73
+HELLO1 router:166 
+HELLO5 router:166 
+HELLO1 router:55 
+HELLO5 router:55 
+HELLO1 router:112 
+HELLO5 router:112 
+HELLO1 router:36 
+HELLO5 router:36 
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:69 
+HELLO5 router:69 
+hello: 868 136 (src_router:217  dst_router:34 dst_node:136) 32 74
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:83 
+HELLO5 router:83 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:112 
+HELLO5 router:112 
+hello: 480 740 (src_router:120  dst_router:185 dst_node:740) 8 75
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:92 
+HELLO5 router:92 
+HELLO1 router:107 
+HELLO5 router:107 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:83 
+HELLO5 router:83 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 720 1020 (src_router:180  dst_router:255 dst_node:1020) 8 76
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:100 
+HELLO5 router:100 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:216 
+HELLO5 router:216 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:169 
+HELLO5 router:169 
+hello: 148 560 (src_router:37  dst_router:140 dst_node:560) 8 77
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:217 
+HELLO5 router:217 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:229 
+HELLO5 router:229 
+hello: 560 148 (src_router:140  dst_router:37 dst_node:148) 8 78
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:127 
+HELLO5 router:127 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:207 
+HELLO5 router:207 
+HELLO1 router:166 
+HELLO5 router:166 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:9 
+HELLO5 router:9 
+HELLO1 router:243 
+HELLO5 router:243 
+hello: 148 888 (src_router:37  dst_router:222 dst_node:888) 32 79
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:180 
+HELLO5 router:180 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:150 
+HELLO5 router:150 
+HELLO1 router:231 
+HELLO5 router:231 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:128 
+HELLO5 router:128 
+hello: 888 148 (src_router:222  dst_router:37 dst_node:148) 8 80
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:84 
+HELLO5 router:84 
+HELLO1 router:128 
+HELLO5 router:128 
+hello: 456 60 (src_router:114  dst_router:15 dst_node:60) 32 81
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:108 
+HELLO5 router:108 
+HELLO1 router:99 
+HELLO5 router:99 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:140 
+HELLO5 router:140 
+hello: 952 8 (src_router:238  dst_router:2 dst_node:8) 8 82
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:215 
+HELLO5 router:215 
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:116 
+HELLO5 router:116 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:185 
+HELLO5 router:185 
+hello: 148 616 (src_router:37  dst_router:154 dst_node:616) 32 83
+HELLO1 router:70 
+HELLO5 router:70 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:140 
+HELLO5 router:140 
+HELLO1 router:228 
+HELLO5 router:228 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:222 
+HELLO5 router:222 
+hello: 616 148 (src_router:154  dst_router:37 dst_node:148) 32 84
+HELLO1 router:8 
+HELLO5 router:8 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:128 
+HELLO5 router:128 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:22 
+HELLO5 router:22 
+HELLO1 router:244 
+HELLO5 router:244 
+HELLO1 router:191 
+HELLO5 router:191 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:143 
+HELLO5 router:143 
+HELLO1 router:121 
+HELLO5 router:121 
+hello: 316 732 (src_router:79  dst_router:183 dst_node:732) 32 85
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:238 
+HELLO5 router:238 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:75 
+HELLO5 router:75 
+HELLO1 router:181 
+HELLO5 router:181 
+hello: 148 680 (src_router:37  dst_router:170 dst_node:680) 32 86
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:216 
+HELLO5 router:216 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:230 
+HELLO5 router:230 
+hello: 680 148 (src_router:170  dst_router:37 dst_node:148) 8 87
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:124 
+HELLO5 router:124 
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:154 
+HELLO5 router:154 
+hello: 148 340 (src_router:37  dst_router:85 dst_node:340) 32 88
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:79 
+HELLO5 router:79 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:39 
+HELLO5 router:39 
+hello: 340 148 (src_router:85  dst_router:37 dst_node:148) 32 89
+HELLO1 router:141 
+HELLO5 router:141 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:231 
+HELLO5 router:231 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:221 
+HELLO5 router:221 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:227 
+HELLO5 router:227 
+hello: 944 256 (src_router:236  dst_router:64 dst_node:256) 8 90
+HELLO1 router:112 
+HELLO5 router:112 
+HELLO1 router:7 
+HELLO5 router:7 
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:175 
+HELLO5 router:175 
+HELLO1 router:23 
+HELLO5 router:23 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:159 
+HELLO5 router:159 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:170 
+HELLO5 router:170 
+HELLO1 router:119 
+HELLO5 router:119 
+hello: 148 492 (src_router:37  dst_router:123 dst_node:492) 32 91
+HELLO1 router:76 
+HELLO5 router:76 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:160 
+HELLO5 router:160 
+HELLO1 router:118 
+HELLO5 router:118 
+HELLO1 router:237 
+HELLO5 router:237 
+HELLO1 router:69 
+HELLO5 router:69 
+hello: 492 148 (src_router:123  dst_router:37 dst_node:148) 32 92
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:215 
+HELLO5 router:215 
+hello: 148 16 (src_router:37  dst_router:4 dst_node:16) 32 93
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:160 
+HELLO5 router:160 
+HELLO1 router:131 
+HELLO5 router:131 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:236 
+HELLO5 router:236 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:90 
+HELLO5 router:90 
+HELLO1 router:140 
+HELLO5 router:140 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:153 
+HELLO5 router:153 
+hello: 16 148 (src_router:4  dst_router:37 dst_node:148) 8 94
+HELLO1 router:78 
+HELLO5 router:78 
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:71 
+HELLO5 router:71 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:40 
+HELLO5 router:40 
+hello: 148 660 (src_router:37  dst_router:165 dst_node:660) 32 95
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:226 
+HELLO5 router:226 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:142 
+HELLO5 router:142 
+HELLO1 router:220 
+HELLO5 router:220 
+HELLO1 router:123 
+HELLO5 router:123 
+hello: 660 148 (src_router:165  dst_router:37 dst_node:148) 32 96
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:159 
+HELLO5 router:159 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:175 
+HELLO5 router:175 
+HELLO1 router:24 
+HELLO5 router:24 
+HELLO1 router:116 
+HELLO5 router:116 
+HELLO1 router:96 
+HELLO5 router:96 
+HELLO1 router:153 
+HELLO5 router:153 
+HELLO1 router:6 
+HELLO5 router:6 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:169 
+HELLO5 router:169 
+hello: 148 896 (src_router:37  dst_router:224 dst_node:896) 8 97
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:4 
+HELLO5 router:4 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:236 
+HELLO5 router:236 
+hello: 896 148 (src_router:224  dst_router:37 dst_node:148) 8 98
+HELLO1 router:228 
+HELLO5 router:228 
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:85 
+HELLO5 router:85 
+hello: 148 568 (src_router:37  dst_router:142 dst_node:568) 32 99
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:152 
+HELLO5 router:152 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:156 
+HELLO5 router:156 
+HELLO1 router:235 
+HELLO5 router:235 
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:176 
+HELLO5 router:176 
+HELLO1 router:103 
+HELLO5 router:103 
+hello: 568 148 (src_router:142  dst_router:37 dst_node:148) 32 100
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:169 
+HELLO5 router:169 
+HELLO1 router:70 
+HELLO5 router:70 
+HELLO1 router:132 
+HELLO5 router:132 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:113 
+HELLO5 router:113 
+hello: 388 320 (src_router:97  dst_router:80 dst_node:320) 8 101
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:224 
+HELLO5 router:224 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:225 
+HELLO5 router:225 
+HELLO1 router:219 
+HELLO5 router:219 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:143 
+HELLO5 router:143 
+HELLO1 router:122 
+HELLO5 router:122 
+hello: 148 560 (src_router:37  dst_router:140 dst_node:560) 8 102
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:169 
+HELLO5 router:169 
+HELLO1 router:151 
+HELLO5 router:151 
+HELLO1 router:143 
+HELLO5 router:143 
+HELLO1 router:25 
+HELLO5 router:25 
+HELLO1 router:168 
+HELLO5 router:168 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:5 
+HELLO5 router:5 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:80 
+HELLO5 router:80 
+HELLO1 router:149 
+HELLO5 router:149 
+hello: 560 148 (src_router:140  dst_router:37 dst_node:148) 8 103
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:78 
+HELLO5 router:78 
+HELLO1 router:235 
+HELLO5 router:235 
+HELLO1 router:5 
+HELLO5 router:5 
+HELLO1 router:142 
+HELLO5 router:142 
+HELLO1 router:101 
+HELLO5 router:101 
+hello: 148 432 (src_router:37  dst_router:108 dst_node:432) 8 104
+HELLO1 router:97 
+HELLO5 router:97 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:227 
+HELLO5 router:227 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:118 
+HELLO5 router:118 
+hello: 432 148 (src_router:108  dst_router:37 dst_node:148) 8 105
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:151 
+HELLO5 router:151 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:234 
+HELLO5 router:234 
+hello: 800 736 (src_router:200  dst_router:184 dst_node:736) 8 106
+HELLO1 router:140 
+HELLO5 router:140 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:153 
+HELLO5 router:153 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:131 
+HELLO5 router:131 
+HELLO1 router:76 
+HELLO5 router:76 
+HELLO1 router:112 
+HELLO5 router:112 
+hello: 148 232 (src_router:37  dst_router:58 dst_node:232) 32 107
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:218 
+HELLO5 router:218 
+HELLO1 router:159 
+HELLO5 router:159 
+HELLO1 router:224 
+HELLO5 router:224 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:225 
+HELLO5 router:225 
+hello: 232 148 (src_router:58  dst_router:37 dst_node:148) 8 108
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:167 
+HELLO5 router:167 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:26 
+HELLO5 router:26 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:118 
+HELLO5 router:118 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:108 
+HELLO5 router:108 
+hello: 148 436 (src_router:37  dst_router:109 dst_node:436) 8 109
+HELLO1 router:200 
+HELLO5 router:200 
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:62 
+HELLO5 router:62 
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:141 
+HELLO5 router:141 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 436 148 (src_router:109  dst_router:37 dst_node:148) 8 110
+HELLO1 router:96 
+HELLO5 router:96 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:226 
+HELLO5 router:226 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 148 1012 (src_router:37  dst_router:253 dst_node:1012) 32 111
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:150 
+HELLO5 router:150 
+HELLO1 router:212 
+HELLO5 router:212 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:138 
+HELLO5 router:138 
+hello: 1012 148 (src_router:253  dst_router:37 dst_node:148) 32 112
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:90 
+HELLO5 router:90 
+HELLO1 router:75 
+HELLO5 router:75 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:147 
+HELLO5 router:147 
+hello: 148 20 (src_router:37  dst_router:5 dst_node:20) 32 113
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:217 
+HELLO5 router:217 
+HELLO1 router:175 
+HELLO5 router:175 
+HELLO1 router:208 
+HELLO5 router:208 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:226 
+HELLO5 router:226 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:109 
+HELLO5 router:109 
+hello: 20 148 (src_router:5  dst_router:37 dst_node:148) 8 114
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:166 
+HELLO5 router:166 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:27 
+HELLO5 router:27 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:107 
+HELLO5 router:107 
+hello: 240 356 (src_router:60  dst_router:89 dst_node:356) 32 115
+HELLO1 router:253 
+HELLO5 router:253 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:61 
+HELLO5 router:61 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:140 
+HELLO5 router:140 
+HELLO1 router:46 
+HELLO5 router:46 
+hello: 148 764 (src_router:37  dst_router:191 dst_node:764) 8 116
+HELLO1 router:210 
+HELLO5 router:210 
+HELLO1 router:90 
+HELLO5 router:90 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:80 
+HELLO5 router:80 
+hello: 764 148 (src_router:191  dst_router:37 dst_node:148) 8 117
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:232 
+HELLO5 router:232 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:211 
+HELLO5 router:211 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:154 
+HELLO5 router:154 
+HELLO1 router:5 
+HELLO5 router:5 
+hello: 432 592 (src_router:108  dst_router:148 dst_node:592) 32 118
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:163 
+HELLO5 router:163 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:60 
+HELLO5 router:60 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 312 104 (src_router:78  dst_router:26 dst_node:104) 32 119
+HELLO1 router:166 
+HELLO5 router:166 
+HELLO1 router:216 
+HELLO5 router:216 
+HELLO1 router:191 
+HELLO5 router:191 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:192 
+HELLO5 router:192 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:108 
+HELLO5 router:108 
+HELLO1 router:227 
+HELLO5 router:227 
+HELLO1 router:119 
+HELLO5 router:119 
+hello: 148 848 (src_router:37  dst_router:212 dst_node:848) 32 120
+HELLO1 router:191 
+HELLO5 router:191 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:28 
+HELLO5 router:28 
+HELLO1 router:199 
+HELLO5 router:199 
+HELLO1 router:59 
+HELLO5 router:59 
+hello: 848 148 (src_router:212  dst_router:37 dst_node:148) 8 121
+HELLO1 router:108 
+HELLO5 router:108 
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:187 
+HELLO5 router:187 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:30 
+HELLO5 router:30 
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:252 
+HELLO5 router:252 
+HELLO1 router:232 
+HELLO5 router:232 
+hello: 148 908 (src_router:37  dst_router:227 dst_node:908) 8 122
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:78 
+HELLO5 router:78 
+HELLO1 router:194 
+HELLO5 router:194 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:91 
+HELLO5 router:91 
+HELLO1 router:69 
+HELLO5 router:69 
+hello: 908 148 (src_router:227  dst_router:37 dst_node:148) 8 123
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:210 
+HELLO5 router:210 
+HELLO1 router:231 
+HELLO5 router:231 
+hello: 148 188 (src_router:37  dst_router:47 dst_node:188) 32 124
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:212 
+HELLO5 router:212 
+HELLO1 router:179 
+HELLO5 router:179 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:59 
+HELLO5 router:59 
+HELLO1 router:73 
+HELLO5 router:73 
+hello: 188 148 (src_router:47  dst_router:37 dst_node:148) 8 125
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:118 
+HELLO5 router:118 
+HELLO1 router:215 
+HELLO5 router:215 
+HELLO1 router:207 
+HELLO5 router:207 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:107 
+HELLO5 router:107 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:176 
+HELLO5 router:176 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:228 
+HELLO5 router:228 
+hello: 148 48 (src_router:37  dst_router:12 dst_node:48) 8 126
+HELLO1 router:215 
+HELLO5 router:215 
+HELLO1 router:190 
+HELLO5 router:190 
+HELLO1 router:29 
+HELLO5 router:29 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:227 
+HELLO5 router:227 
+HELLO1 router:121 
+HELLO5 router:121 
+hello: 48 148 (src_router:12  dst_router:37 dst_node:148) 8 127
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:188 
+HELLO5 router:188 
+HELLO1 router:93 
+HELLO5 router:93 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:231 
+HELLO5 router:231 
+HELLO1 router:251 
+HELLO5 router:251 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:14 
+HELLO5 router:14 
+hello: 720 592 (src_router:180  dst_router:148 dst_node:592) 32 128
+HELLO1 router:47 
+HELLO5 router:47 
+HELLO1 router:178 
+HELLO5 router:178 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:107 
+HELLO5 router:107 
+hello: 476 164 (src_router:119  dst_router:41 dst_node:164) 32 129
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:55 
+HELLO5 router:55 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:194 
+HELLO5 router:194 
+HELLO1 router:230 
+HELLO5 router:230 
+hello: 148 536 (src_router:37  dst_router:134 dst_node:536) 32 130
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:12 
+HELLO5 router:12 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 536 148 (src_router:134  dst_router:37 dst_node:148) 8 131
+HELLO1 router:180 
+HELLO5 router:180 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:160 
+HELLO5 router:160 
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:101 
+HELLO5 router:101 
+hello: 980 296 (src_router:245  dst_router:74 dst_node:296) 8 132
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:228 
+HELLO5 router:228 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:122 
+HELLO5 router:122 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:189 
+HELLO5 router:189 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:30 
+HELLO5 router:30 
+hello: 216 928 (src_router:54  dst_router:232 dst_node:928) 32 133
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:189 
+HELLO5 router:189 
+HELLO1 router:109 
+HELLO5 router:109 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:250 
+HELLO5 router:250 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:230 
+HELLO5 router:230 
+hello: 148 180 (src_router:37  dst_router:45 dst_node:180) 32 134
+HELLO1 router:106 
+HELLO5 router:106 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:76 
+HELLO5 router:76 
+HELLO1 router:46 
+HELLO5 router:46 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:162 
+HELLO5 router:162 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:134 
+HELLO5 router:134 
+hello: 180 148 (src_router:45  dst_router:37 dst_node:148) 32 135
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:178 
+HELLO5 router:178 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:229 
+HELLO5 router:229 
+hello: 244 188 (src_router:61  dst_router:47 dst_node:188) 8 136
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:71 
+HELLO5 router:71 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:154 
+HELLO5 router:154 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:11 
+HELLO5 router:11 
+HELLO1 router:197 
+HELLO5 router:197 
+hello: 148 168 (src_router:37  dst_router:42 dst_node:168) 32 137
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:164 
+HELLO5 router:164 
+hello: 168 148 (src_router:42  dst_router:37 dst_node:148) 32 138
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:123 
+HELLO5 router:123 
+HELLO1 router:188 
+HELLO5 router:188 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:46 
+HELLO5 router:46 
+HELLO1 router:103 
+HELLO5 router:103 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:61 
+HELLO5 router:61 
+hello: 148 360 (src_router:37  dst_router:90 dst_node:360) 32 139
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:249 
+HELLO5 router:249 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:190 
+HELLO5 router:190 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:61 
+HELLO5 router:61 
+hello: 360 148 (src_router:90  dst_router:37 dst_node:148) 8 140
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:75 
+HELLO5 router:75 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:146 
+HELLO5 router:146 
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:105 
+HELLO5 router:105 
+HELLO1 router:85 
+HELLO5 router:85 
+hello: 148 848 (src_router:37  dst_router:212 dst_node:848) 8 141
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:162 
+HELLO5 router:162 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:228 
+HELLO5 router:228 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:246 
+HELLO5 router:246 
+hello: 848 148 (src_router:212  dst_router:37 dst_node:148) 8 142
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:55 
+HELLO5 router:55 
+HELLO1 router:170 
+HELLO5 router:170 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:10 
+HELLO5 router:10 
+hello: 148 64 (src_router:37  dst_router:16 dst_node:64) 8 143
+HELLO1 router:90 
+HELLO5 router:90 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:128 
+HELLO5 router:128 
+HELLO1 router:148 
+HELLO5 router:148 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 64 148 (src_router:16  dst_router:37 dst_node:148) 32 144
+HELLO1 router:124 
+HELLO5 router:124 
+HELLO1 router:62 
+HELLO5 router:62 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:77 
+HELLO5 router:77 
+HELLO1 router:187 
+HELLO5 router:187 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:121 
+HELLO5 router:121 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 148 560 (src_router:37  dst_router:140 dst_node:560) 8 145
+HELLO1 router:191 
+HELLO5 router:191 
+HELLO1 router:212 
+HELLO5 router:212 
+HELLO1 router:62 
+HELLO5 router:62 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:228 
+HELLO5 router:228 
+HELLO1 router:141 
+HELLO5 router:141 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:248 
+HELLO5 router:248 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 560 148 (src_router:140  dst_router:37 dst_node:148) 8 146
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:155 
+HELLO5 router:155 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:130 
+HELLO5 router:130 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 148 448 (src_router:37  dst_router:112 dst_node:448) 32 147
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:146 
+HELLO5 router:146 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:247 
+HELLO5 router:247 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:227 
+HELLO5 router:227 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:16 
+HELLO5 router:16 
+hello: 448 148 (src_router:112  dst_router:37 dst_node:148) 32 148
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:103 
+HELLO5 router:103 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:9 
+HELLO5 router:9 
+HELLO1 router:41 
+HELLO5 router:41 
+hello: 148 784 (src_router:37  dst_router:196 dst_node:784) 8 149
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:112 
+HELLO5 router:112 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:103 
+HELLO5 router:103 
+HELLO1 router:140 
+HELLO5 router:140 
+hello: 784 148 (src_router:196  dst_router:37 dst_node:148) 32 150
+HELLO1 router:93 
+HELLO5 router:93 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:78 
+HELLO5 router:78 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:105 
+HELLO5 router:105 
+hello: 148 236 (src_router:37  dst_router:59 dst_node:236) 8 151
+HELLO1 router:112 
+HELLO5 router:112 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:157 
+HELLO5 router:157 
+HELLO1 router:63 
+HELLO5 router:63 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:227 
+HELLO5 router:227 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:247 
+HELLO5 router:247 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:207 
+HELLO5 router:207 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:213 
+HELLO5 router:213 
+hello: 236 148 (src_router:59  dst_router:37 dst_node:148) 8 152
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:171 
+HELLO5 router:171 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:103 
+HELLO5 router:103 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 148 700 (src_router:37  dst_router:175 dst_node:700) 8 153
+HELLO1 router:196 
+HELLO5 router:196 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:226 
+HELLO5 router:226 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:130 
+HELLO5 router:130 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:17 
+HELLO5 router:17 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:248 
+HELLO5 router:248 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 700 148 (src_router:175  dst_router:37 dst_node:148) 8 154
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:202 
+HELLO5 router:202 
+HELLO1 router:119 
+HELLO5 router:119 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:8 
+HELLO5 router:8 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:25 
+HELLO5 router:25 
+hello: 744 876 (src_router:186  dst_router:219 dst_node:876) 32 155
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:96 
+HELLO5 router:96 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:139 
+HELLO5 router:139 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:59 
+HELLO5 router:59 
+hello: 108 784 (src_router:27  dst_router:196 dst_node:784) 32 156
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:126 
+HELLO5 router:126 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:94 
+HELLO5 router:94 
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:109 
+HELLO5 router:109 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 976 344 (src_router:244  dst_router:86 dst_node:344) 8 157
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:226 
+HELLO5 router:226 
+HELLO1 router:173 
+HELLO5 router:173 
+HELLO1 router:47 
+HELLO5 router:47 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:246 
+HELLO5 router:246 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:113 
+HELLO5 router:113 
+HELLO1 router:175 
+HELLO5 router:175 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:223 
+HELLO5 router:223 
+HELLO1 router:133 
+HELLO5 router:133 
+hello: 264 316 (src_router:66  dst_router:79 dst_node:316) 8 158
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:98 
+HELLO5 router:98 
+HELLO1 router:187 
+HELLO5 router:187 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:102 
+HELLO5 router:102 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:186 
+HELLO5 router:186 
+hello: 148 456 (src_router:37  dst_router:114 dst_node:456) 32 159
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:249 
+HELLO5 router:249 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:225 
+HELLO5 router:225 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:18 
+HELLO5 router:18 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:27 
+HELLO5 router:27 
+hello: 456 148 (src_router:114  dst_router:37 dst_node:148) 32 160
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:218 
+HELLO5 router:218 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:7 
+HELLO5 router:7 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:244 
+HELLO5 router:244 
+hello: 148 792 (src_router:37  dst_router:198 dst_node:792) 32 161
+HELLO1 router:80 
+HELLO5 router:80 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:138 
+HELLO5 router:138 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:66 
+HELLO5 router:66 
+hello: 792 148 (src_router:198  dst_router:37 dst_node:148) 8 162
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:127 
+HELLO5 router:127 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:110 
+HELLO5 router:110 
+HELLO1 router:125 
+HELLO5 router:125 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:73 
+HELLO5 router:73 
+hello: 192 208 (src_router:48  dst_router:52 dst_node:208) 8 163
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:174 
+HELLO5 router:174 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:210 
+HELLO5 router:210 
+HELLO1 router:239 
+HELLO5 router:239 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:189 
+HELLO5 router:189 
+hello: 744 96 (src_router:186  dst_router:24 dst_node:96) 8 164
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:203 
+HELLO5 router:203 
+HELLO1 router:82 
+HELLO5 router:82 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:26 
+HELLO5 router:26 
+HELLO1 router:187 
+HELLO5 router:187 
+HELLO1 router:133 
+HELLO5 router:133 
+hello: 148 972 (src_router:37  dst_router:243 dst_node:972) 8 165
+HELLO1 router:224 
+HELLO5 router:224 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:98 
+HELLO5 router:98 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:250 
+HELLO5 router:250 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:19 
+HELLO5 router:19 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:26 
+HELLO5 router:26 
+hello: 972 148 (src_router:243  dst_router:37 dst_node:148) 8 166
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:6 
+HELLO5 router:6 
+HELLO1 router:151 
+HELLO5 router:151 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:48 
+HELLO5 router:48 
+hello: 148 876 (src_router:37  dst_router:219 dst_node:876) 8 167
+HELLO1 router:86 
+HELLO5 router:86 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:137 
+HELLO5 router:137 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:67 
+HELLO5 router:67 
+hello: 876 148 (src_router:219  dst_router:37 dst_node:148) 32 168
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:111 
+HELLO5 router:111 
+HELLO1 router:126 
+HELLO5 router:126 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:141 
+HELLO5 router:141 
+hello: 148 512 (src_router:37  dst_router:128 dst_node:512) 8 169
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:173 
+HELLO5 router:173 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:194 
+HELLO5 router:194 
+HELLO1 router:255 
+HELLO5 router:255 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:205 
+HELLO5 router:205 
+HELLO1 router:243 
+HELLO5 router:243 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+hello: 512 148 (src_router:128  dst_router:37 dst_node:148) 8 170
+HELLO1 router:100 
+HELLO5 router:100 
+HELLO1 router:219 
+HELLO5 router:219 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:66 
+HELLO5 router:66 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:41 
+HELLO5 router:41 
+hello: 932 808 (src_router:233  dst_router:202 dst_node:808) 8 171
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:208 
+HELLO5 router:208 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:82 
+HELLO5 router:82 
+HELLO1 router:234 
+HELLO5 router:234 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:23 
+HELLO5 router:23 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:20 
+HELLO5 router:20 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:25 
+HELLO5 router:25 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:219 
+HELLO5 router:219 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:165 
+HELLO5 router:165 
+hello: 148 776 (src_router:37  dst_router:194 dst_node:776) 8 172
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:5 
+HELLO5 router:5 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:49 
+HELLO5 router:49 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:167 
+HELLO5 router:167 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:246 
+HELLO5 router:246 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:133 
+HELLO5 router:133 
+hello: 776 148 (src_router:194  dst_router:37 dst_node:148) 8 173
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:128 
+HELLO5 router:128 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:68 
+HELLO5 router:68 
+HELLO1 router:133 
+HELLO5 router:133 
+hello: 148 792 (src_router:37  dst_router:198 dst_node:792) 8 174
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:95 
+HELLO5 router:95 
+HELLO1 router:40 
+HELLO5 router:40 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:56 
+HELLO5 router:56 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:142 
+HELLO5 router:142 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:233 
+HELLO5 router:233 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:157 
+HELLO5 router:157 
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 792 148 (src_router:198  dst_router:37 dst_node:148) 32 175
+HELLO1 router:244 
+HELLO5 router:244 
+HELLO1 router:116 
+HELLO5 router:116 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:178 
+HELLO5 router:178 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:221 
+HELLO5 router:221 
+HELLO1 router:172 
+HELLO5 router:172 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 188 620 (src_router:47  dst_router:155 dst_node:620) 32 176
+HELLO1 router:235 
+HELLO5 router:235 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:50 
+HELLO5 router:50 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:203 
+HELLO5 router:203 
+HELLO1 router:194 
+HELLO5 router:194 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:116 
+HELLO5 router:116 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 148 748 (src_router:37  dst_router:187 dst_node:748) 32 177
+HELLO1 router:218 
+HELLO5 router:218 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:192 
+HELLO5 router:192 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:66 
+HELLO5 router:66 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:24 
+HELLO5 router:24 
+hello: 748 148 (src_router:187  dst_router:37 dst_node:148) 8 178
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:50 
+HELLO5 router:50 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:230 
+HELLO5 router:230 
+HELLO1 router:183 
+HELLO5 router:183 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 964 700 (src_router:241  dst_router:175 dst_node:700) 8 179
+HELLO1 router:129 
+HELLO5 router:129 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:55 
+HELLO5 router:55 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:136 
+HELLO5 router:136 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:135 
+HELLO5 router:135 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:47 
+HELLO5 router:47 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:69 
+HELLO5 router:69 
+hello: 108 656 (src_router:27  dst_router:164 dst_node:656) 8 180
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:185 
+HELLO5 router:185 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:158 
+HELLO5 router:158 
+HELLO1 router:41 
+HELLO5 router:41 
+HELLO1 router:79 
+HELLO5 router:79 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:116 
+HELLO5 router:116 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:234 
+HELLO5 router:234 
+hello: 148 804 (src_router:37  dst_router:201 dst_node:804) 8 181
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:162 
+HELLO5 router:162 
+HELLO1 router:173 
+HELLO5 router:173 
+HELLO1 router:39 
+HELLO5 router:39 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:171 
+HELLO5 router:171 
+HELLO1 router:245 
+HELLO5 router:245 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:187 
+HELLO5 router:187 
+hello: 804 148 (src_router:201  dst_router:37 dst_node:148) 8 182
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:241 
+HELLO5 router:241 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:34 
+HELLO5 router:34 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:132 
+HELLO5 router:132 
+HELLO1 router:251 
+HELLO5 router:251 
+HELLO1 router:195 
+HELLO5 router:195 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+hello: 296 608 (src_router:74  dst_router:152 dst_node:608) 8 183
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:27 
+HELLO5 router:27 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:202 
+HELLO5 router:202 
+HELLO1 router:176 
+HELLO5 router:176 
+HELLO1 router:217 
+HELLO5 router:217 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:50 
+HELLO5 router:50 
+HELLO1 router:23 
+HELLO5 router:23 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 148 356 (src_router:37  dst_router:89 dst_node:356) 32 184
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:51 
+HELLO5 router:51 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 356 148 (src_router:89  dst_router:37 dst_node:148) 32 185
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:201 
+HELLO5 router:201 
+HELLO1 router:70 
+HELLO5 router:70 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:152 
+HELLO5 router:152 
+HELLO1 router:54 
+HELLO5 router:54 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:134 
+HELLO5 router:134 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:46 
+HELLO5 router:46 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:130 
+HELLO5 router:130 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 148 452 (src_router:37  dst_router:113 dst_node:452) 8 186
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:218 
+HELLO5 router:218 
+HELLO1 router:219 
+HELLO5 router:219 
+HELLO1 router:174 
+HELLO5 router:174 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:63 
+HELLO5 router:63 
+HELLO1 router:88 
+HELLO5 router:88 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 452 148 (src_router:113  dst_router:37 dst_node:148) 8 187
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:189 
+HELLO5 router:189 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:146 
+HELLO5 router:146 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:42 
+HELLO5 router:42 
+HELLO1 router:170 
+HELLO5 router:170 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:229 
+HELLO5 router:229 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 772 660 (src_router:193  dst_router:165 dst_node:660) 32 188
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:89 
+HELLO5 router:89 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:196 
+HELLO5 router:196 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:148 
+HELLO5 router:148 
+HELLO1 router:242 
+HELLO5 router:242 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 232 580 (src_router:58  dst_router:145 dst_node:580) 8 189
+HELLO1 router:26 
+HELLO5 router:26 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:160 
+HELLO5 router:160 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:186 
+HELLO5 router:186 
+HELLO1 router:34 
+HELLO5 router:34 
+HELLO1 router:216 
+HELLO5 router:216 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:22 
+HELLO5 router:22 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 148 396 (src_router:37  dst_router:99 dst_node:396) 8 190
+HELLO1 router:113 
+HELLO5 router:113 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:52 
+HELLO5 router:52 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:198 
+HELLO5 router:198 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:53 
+HELLO5 router:53 
+hello: 396 148 (src_router:99  dst_router:37 dst_node:148) 8 191
+HELLO1 router:131 
+HELLO5 router:131 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:71 
+HELLO5 router:71 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:200 
+HELLO5 router:200 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:168 
+HELLO5 router:168 
+HELLO1 router:193 
+HELLO5 router:193 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 148 296 (src_router:37  dst_router:74 dst_node:296) 8 192
+HELLO1 router:202 
+HELLO5 router:202 
+HELLO1 router:168 
+HELLO5 router:168 
+HELLO1 router:190 
+HELLO5 router:190 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:104 
+HELLO5 router:104 
+HELLO1 router:47 
+HELLO5 router:47 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:58 
+HELLO5 router:58 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:37 
+HELLO5 router:37 
+hello: 296 148 (src_router:74  dst_router:37 dst_node:148) 32 193
+HELLO1 router:169 
+HELLO5 router:169 
+HELLO1 router:213 
+HELLO5 router:213 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:130 
+HELLO5 router:130 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:36 
+HELLO5 router:36 
+HELLO1 router:185 
+HELLO5 router:185 
+hello: 384 644 (src_router:96  dst_router:161 dst_node:644) 32 194
+HELLO1 router:99 
+HELLO5 router:99 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:243 
+HELLO5 router:243 
+HELLO1 router:43 
+HELLO5 router:43 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:88 
+HELLO5 router:88 
+hello: 148 152 (src_router:37  dst_router:38 dst_node:152) 32 195
+HELLO1 router:25 
+HELLO5 router:25 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:144 
+HELLO5 router:144 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:21 
+HELLO5 router:21 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:45 
+HELLO5 router:45 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:215 
+HELLO5 router:215 
+HELLO1 router:170 
+HELLO5 router:170 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 152 148 (src_router:38  dst_router:37 dst_node:148) 8 196
+HELLO1 router:74 
+HELLO5 router:74 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:182 
+HELLO5 router:182 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 148 528 (src_router:37  dst_router:132 dst_node:528) 32 197
+HELLO1 router:96 
+HELLO5 router:96 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:132 
+HELLO5 router:132 
+HELLO1 router:199 
+HELLO5 router:199 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:194 
+HELLO5 router:194 
+hello: 528 148 (src_router:132  dst_router:37 dst_node:148) 32 198
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:206 
+HELLO5 router:206 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:31 
+HELLO5 router:31 
+HELLO1 router:57 
+HELLO5 router:57 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:152 
+HELLO5 router:152 
+HELLO1 router:120 
+HELLO5 router:120 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:72 
+HELLO5 router:72 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 148 416 (src_router:37  dst_router:104 dst_node:416) 8 199
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:184 
+HELLO5 router:184 
+HELLO1 router:197 
+HELLO5 router:197 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:114 
+HELLO5 router:114 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:168 
+HELLO5 router:168 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:35 
+HELLO5 router:35 
+hello: 416 148 (src_router:104  dst_router:37 dst_node:148) 32 200
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:87 
+HELLO5 router:87 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:44 
+HELLO5 router:44 
+HELLO1 router:244 
+HELLO5 router:244 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:38 
+HELLO5 router:38 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:181 
+HELLO5 router:181 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:100 
+HELLO5 router:100 
+hello: 108 876 (src_router:27  dst_router:219 dst_node:876) 8 201
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:154 
+HELLO5 router:154 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:29 
+HELLO5 router:29 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:128 
+HELLO5 router:128 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:132 
+HELLO5 router:132 
+HELLO1 router:214 
+HELLO5 router:214 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:24 
+HELLO5 router:24 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:117 
+HELLO5 router:117 
+HELLO1 router:20 
+HELLO5 router:20 
+hello: 484 0 (src_router:121  dst_router:0 dst_node:0) 32 202
+HELLO1 router:73 
+HELLO5 router:73 
+HELLO1 router:37 
+HELLO5 router:37 
+HELLO1 router:133 
+HELLO5 router:133 
+HELLO1 router:149 
+HELLO5 router:149 
+HELLO1 router:165 
+HELLO5 router:165 
+HELLO1 router:115 
+HELLO5 router:115 
+HELLO1 router:166 
+HELLO5 router:166 
+HELLO1 router:101 
+HELLO5 router:101 
+HELLO1 router:69 
+HELLO5 router:69 
+HELLO1 router:85 
+HELLO5 router:85 
+HELLO1 router:53 
+HELLO5 router:53 
+HELLO1 router:117 
+HELLO5 router:117 
+hello: 344 920 (src_router:86  dst_router:230 dst_node:920) 8 203
+HELLO1 router:37 

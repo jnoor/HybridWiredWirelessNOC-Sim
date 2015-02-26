@@ -1,0 +1,96 @@
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	flitBuffer_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	flitBuffer_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	flitBuffer_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	flitBuffer_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	flit_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	flit_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	flit_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	flit_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	GarnetNetwork_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	-g
+	-I.
+	GarnetNetwork_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	GarnetNetwork_d.cpp
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/jnoor/Research/Garnet-WCube
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	-g
+	-I.
+	GarnetNetwork_d.cpp
+

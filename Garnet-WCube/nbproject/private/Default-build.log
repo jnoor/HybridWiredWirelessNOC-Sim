@@ -1,0 +1,53 @@
+g++	 -c -g  -I. flitBuffer_d.cpp
+In file included from flitBuffer_d.cpp:61:
+In file included from ./flitBuffer_d.h:64:
+./NetworkHeader.h:67:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+In file included from flitBuffer_d.cpp:61:
+In file included from ./flitBuffer_d.h:65:
+In file included from ./PrioHeap.h:74:
+In file included from ./Vector.h:79:
+In file included from ./std-includes.h:74:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ext/hash_map:212:5: warning: Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map> [-W#warnings]
+#   warning Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map>
+    ^
+2 warnings generated.
+g++	 -c -g  -I. flit_d.cpp
+In file included from flit_d.cpp:61:
+In file included from ./flit_d.h:65:
+./NetworkHeader.h:67:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+In file included from flit_d.cpp:61:
+In file included from ./flit_d.h:66:
+In file included from ./NetworkMessage.h:14:
+In file included from ./Common.h:6:
+In file included from ./std-includes.h:74:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ext/hash_map:212:5: warning: Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map> [-W#warnings]
+#   warning Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map>
+    ^
+2 warnings generated.
+g++	 -c -g  -I. GarnetNetwork_d.cpp
+In file included from GarnetNetwork_d.cpp:64:
+In file included from ./GarnetNetwork_d.h:67:
+./NetworkHeader.h:67:17: warning: using directive refers to implicitly-defined namespace 'std'
+using namespace std;
+                ^
+In file included from GarnetNetwork_d.cpp:64:
+In file included from ./GarnetNetwork_d.h:68:
+In file included from ./Vector.h:79:
+In file included from ./std-includes.h:74:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ext/hash_map:212:5: warning: Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map> [-W#warnings]
+#   warning Use of the header <ext/hash_map> is deprecated.  Migrate to <unordered_map>
+    ^
+In file included from GarnetNetwork_d.cpp:67:
+In file included from ./Router_d.h:67:
+./Map.h:75:55: error: no matching function for call to object of type 'hash<char *>'
+    size_t operator()(const string& s) const { return hash<char*>()(s.c_str()); }
+                                                      ^~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ext/__hash:39:12: note: candidate function not viable: 1st argument ('const value_type *' (aka 'const char *')) would lose const qualifier
+    size_t operator()(char *__c) const _NOEXCEPT
+           ^
+2 warnings and 1 error generated.
+make: *** [GarnetNetwork_d.o] Error 1
